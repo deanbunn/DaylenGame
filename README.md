@@ -15,10 +15,9 @@ A quick command-line app to learn coding and the development process.
 
 ### Future Features
 
-- Health property
-- Wins property
-- Rounds or health elimination 
-
+- Match outcome to log file
+- Add Weapon Types
+- Blocking Chance 
 
 
 
