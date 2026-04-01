@@ -9,12 +9,17 @@ class Entrant:
         self.intelligence = intelligence
         self.speed = speed
         self.strength = strength
+        self.wins = 0
+        self.health = 75
+
 
     def showstats(self):
         return f"Name: {self.name} \nIntelligence: {self.intelligence} \nSpeed: {self.speed} \nStrength: {self.strength} \n\n"
 
     def attackroll(self):
         return self.intelligence + self.speed + self.strength + random.randint(1,50)
+    
+
     
 
 
