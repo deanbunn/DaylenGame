@@ -2,6 +2,9 @@
 
 #Import Required Modules
 import game_resources
+from game_utilities import log_game_data
+from datetime import datetime
+import uuid
 
 
 #Default Method
@@ -24,6 +27,12 @@ def main():
     entrant2 = game_resources.Entrant(name="Daylen",speed=15,intelligence=20)
     print(entrant2.showstats())
 
+    #Var for Game Unique GUID
+    gameguid = str(uuid.uuid4())
+
+    #Empty List for Game Data to Write to Log
+    gamedata = []
+
     #While loop for entrants health
     while entrant1.health > 0 and entrant2.health > 0:
 
@@ -34,9 +43,11 @@ def main():
         if entrant1.attackroll() >= entrant2.attackroll():
             entrant1.wins += 1
             entrant2.health -= 5
+            gamedata.append([datetime.now().strftime("%Y-%m-%d %H:%M:%S"),gameguid,totalRounds,entrant1.name])
         else:
             entrant2.wins += 1
             entrant1.health -= 5
+            gamedata.append([datetime.now().strftime("%Y-%m-%d %H:%M:%S"),gameguid,totalRounds,entrant2.name])
 
         #Checking for Entrants Health
         if entrant1.health <= 0:
@@ -45,7 +56,10 @@ def main():
         if entrant2.health <= 0:
             gameStatus = entrant2.name + " lost the game!"
     
-    
+
+    #Logging Match Data
+    log_game_data(gamedata)
+
     #reporting the outcome of the match
     print("Played a total of " + str(totalRounds) + " rounds!")
     print(entrant1.name + " won " + str(entrant1.wins) + " rounds" + " health is " + str(entrant1.health))

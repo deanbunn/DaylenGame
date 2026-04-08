@@ -14,7 +14,7 @@ gamedata = []
 for i in range(1,6):
     #Add Item to GameData List. #For More Specific Timestamp use datetime.now().isoformat()
     gamedata.append([datetime.now().strftime("%Y-%m-%d %H:%M:%S"),gameguid,i,"nobody"])
-
+    
 
 log_game_data(gamedata)
 
