@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#Import Required Modules
 import random
 
 #Class for Game Entrant

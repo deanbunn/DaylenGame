@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
-#Import Game Resource Classes
+#Import Required Modules
 import game_resources
+
 
 #Default Method
 def main():
