@@ -15,8 +15,8 @@ A quick command-line app to learn coding and the development process.
 
 ### Future Features
 
-- Match outcome to log file
-- Add Weapon Types
+- Weapon names to terminal output
+- Armor types
 - Blocking Chance 
 
 

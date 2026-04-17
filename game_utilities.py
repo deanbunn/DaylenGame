@@ -14,7 +14,7 @@ def log_game_data(gamedata,logname="game-log.csv"):
 
         #If File Didn't Exist. Then Create CSV Header
         if not game_log_file_exists:
-            writer.writerow(['timestamp','game id','round','winner'])
+            writer.writerow(['timestamp','game id','round','entrant1 damage','entrant2 damage','winner'])
 
         #Write Game Data to Log File
         writer.writerows(gamedata)
