@@ -12,6 +12,11 @@ A quick command-line app to learn coding and the development process.
 
 [W3Schools Python Tutorial](https://www.w3schools.com/python/)
 
+### Game Description
+
+
+
+### Instructions
 
 ### Future Features
 

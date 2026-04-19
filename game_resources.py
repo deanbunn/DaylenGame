@@ -40,7 +40,7 @@ class Entrant:
         
 
     def showstats(self):
-        return f"Name: {self.name} \nIntelligence: {self.intelligence} \nSpeed: {self.speed} \nStrength: {self.strength} \nWeapon: {self.weapon.category} \n\n"
+        return f"\nName: {self.name} \nIntelligence: {self.intelligence} \nSpeed: {self.speed} \nStrength: {self.strength} \nArmour Class: {self.armor_class} \nWeapon: {self.weapon.category} \nAttacks Per Round: {self.attacks_per_round} \n"
 
     
 

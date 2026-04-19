@@ -12,10 +12,7 @@ import random
 def main():
 
     #Display Start Message
-    print("Let's start the game! \n")
-
-    #Var for Game Status
-    game_status = ""
+    print("\nLet's start the game!")
 
     #Var for Total Rounds
     total_rounds = 0
@@ -111,6 +108,7 @@ def main():
 
     #Show Entrants Stats
     print(entrant1.showstats())
+    print("vs.")
     print(entrant2.showstats())
 
     #######################
@@ -151,15 +149,18 @@ def main():
             if random.randint(1,20) >= entrant1.armor_class:
                 ent2_per_rnd_damage += random.randint(1,entrant2.weapon.damage)
 
+        
+        #Apply Round Damage to Entrants
+        entrant1.health -= ent2_per_rnd_damage
+        entrant2.health -= ent1_per_rnd_damage
+
 
         #Comparing Damage for the round. Incrementing Wins or Health and Health Status
         if ent1_per_rnd_damage >= ent2_per_rnd_damage:
             entrant1.wins += 1
-            entrant2.health -= ent1_per_rnd_damage
             round_winner = entrant1.name
         else:
             entrant2.wins += 1
-            entrant1.health -= ent2_per_rnd_damage
             round_winner = entrant2.name
             
         
@@ -173,26 +174,22 @@ def main():
                         ent2_per_rnd_damage,
                         round_winner])
 
-        #Checking for Entrants Health
-        if entrant1.health <= 0:
-            game_status = entrant1.name + " lost the game!"
-
-        if entrant2.health <= 0:
-            game_status = entrant2.name + " lost the game!"
-    
-
+        
     #Logging Match Data
     log_game_data(gamedata)
 
-    #reporting the outcome of the match
+    #Reporting the outcome of the match
     print("Played a total of " + str(total_rounds) + " rounds!")
     print(entrant1.name + " won " + str(entrant1.wins) + " rounds" + " health is " + str(entrant1.health))
-    print(entrant2.name + " won " + str(entrant2.wins) + " rounds" + " health is " + str(entrant2.health))
-    print("\n")
-    print(game_status)
-    print("\n")
+    print(entrant2.name + " won " + str(entrant2.wins) + " rounds" + " health is " + str(entrant2.health) + "\n")
     
+    #Display Winner's Name and Weapon Name
+    if entrant1.health >= entrant2.health:
+        print(entrant1.name + " was victorious using \"" + entrant1.weapon.name + "\" " + entrant1.weapon.category + "\n")
+    else:
+        print(entrant2.name + " was victorious using \"" + entrant2.weapon.name + "\" " + entrant2.weapon.category + "\n")
 
+    
 
 #Check to See If Script Ran Directly Instead of Imported
 if __name__ == "__main__":
