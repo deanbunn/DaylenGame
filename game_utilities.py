@@ -51,10 +51,12 @@ def log_game_data(gamedata,logname="log_game_results.csv"):
                              'entrant1_name',
                              'entrant1_weapon',
                              'entrant1_health',
+                             'entrant1_rounds_won',
                              'entrant2_id',
                              'entrant2_name',
                              'entrant2_weapon',
                              'entrant2_health',
+                             'entrant2_rounds_won',
                              'winner_id',
                              'winner_name'])
 

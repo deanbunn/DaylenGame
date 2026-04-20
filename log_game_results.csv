@@ -1,14 +1,13 @@
-timestamp,game_id,entrant1_id,entrant1_name,entrant1_weapon,entrant1_health,entrant2_id,entrant2_name,entrant2_weapon,entrant2_health,winner_id,winner_name
-2026-04-20 08:16:02,041365aa-2906-4f23-bccc-f23d5b7f62b1,3,Juan,Greatsword,64,4,Charlie,Club,-5,3,Juan
-2026-04-20 08:19:53,0df8c7dc-63ad-4335-88cd-00287601b879,2,Daylen,Dagger,-3,4,Charlie,Piano,68,4,Charlie
-2026-04-20 08:20:03,8b129c66-4440-49b6-aec0-77d86b978337,5,Marcus,Dagger,-4,1,Raymond,Club,3,1,Raymond
-2026-04-20 08:20:13,5a4c14fb-d323-4b10-b9cf-e2875e43e87c,4,Charlie,Club,-21,3,Juan,Piano,68,3,Juan
-2026-04-20 08:20:20,9edb5d4b-fe40-48ce-b0be-d5aba0cee7f6,1,Raymond,Piano,62,2,Daylen,Club,-9,1,Raymond
-2026-04-20 08:20:34,64cd339e-43e6-40f0-894d-65f94c4185e8,5,Marcus,Club,-11,1,Raymond,Piano,61,1,Raymond
-2026-04-20 08:20:43,d46ed057-0301-47de-9588-2c9386c4b6cf,5,Marcus,Club,-2,2,Daylen,Club,30,2,Daylen
-2026-04-20 08:20:51,cbd728fe-9830-47ce-99d2-1e7cc9917760,5,Marcus,Piano,83,3,Juan,Dagger,-13,5,Marcus
-2026-04-20 08:20:59,95aff254-356f-4ed3-9fc9-d93dd9f6f130,4,Charlie,Dagger,-1,5,Marcus,Piano,67,5,Marcus
-2026-04-20 08:21:05,17cbe6f3-dba1-4afe-bb60-dded59adcc36,2,Daylen,Shortsword,77,1,Raymond,Dagger,-9,2,Daylen
-2026-04-20 08:26:55,3b393e94-8766-47f4-9392-e4c5c8808fbc,2,Daylen,Piano,94,1,Raymond,Club,-21,2,Daylen
-2026-04-20 08:30:55,f373c635-984e-4919-bf7a-8c0b3adefbf7,4,Charlie,Dagger,-1,1,Raymond,Shortsword,38,1,Raymond
-2026-04-20 09:57:12,d40cd839-d581-4689-a5f1-26f555a8113a,3,Juan,Greatsword,45,4,Charlie,Dagger,0,3,Juan
+timestamp,game_id,entrant1_id,entrant1_name,entrant1_weapon,entrant1_health,entrant1_rounds_won,entrant2_id,entrant2_name,entrant2_weapon,entrant2_health,entrant2_rounds_won,winner_id,winner_name
+2026-04-20 11:04:18,b3192a6d-5c69-4ac9-aabe-60663f0effb8,5,Marcus,Greatsword,57,7,4,Charlie,Greatsword,-21,1,5,Marcus
+2026-04-20 11:05:34,d8afdb17-b973-477b-a453-0249fb9a4aeb,3,Juan,Shortsword,36,12,4,Charlie,Club,-14,10,3,Juan
+2026-04-20 12:54:59,c4584e02-480a-4e0e-930c-cd37805af699,1,Raymond,Club,-4,1,2,Daylen,Shortsword,77,9,2,Daylen
+2026-04-20 12:57:58,8ed1a2f5-dd52-40d7-a611-a827e2bd69b2,2,Daylen,Shortsword,0,5,4,Charlie,Piano,6,3,4,Charlie
+2026-04-20 12:58:07,3dbdbdd1-0465-4cfe-b699-45b5d7c38533,4,Charlie,Shortsword,49,13,1,Raymond,Club,0,5,4,Charlie
+2026-04-20 12:58:33,97c8ed0c-fd62-4a44-9e37-062506cc1214,5,Marcus,Club,-1,14,3,Juan,Club,18,13,3,Juan
+2026-04-20 12:58:42,2e32a56e-4e71-4840-ab98-18194fe86108,5,Marcus,Club,21,21,1,Raymond,Club,-2,10,5,Marcus
+2026-04-20 12:58:47,713d8ed2-cba7-4e7a-99ec-975bc1bf6363,2,Daylen,Greatsword,69,8,4,Charlie,Club,-2,1,2,Daylen
+2026-04-20 12:59:54,4712ab9a-61c6-48a8-a281-0ac8935b0c67,2,Daylen,Shortsword,57,8,5,Marcus,Dagger,0,5,2,Daylen
+2026-04-20 13:00:12,09ecfd47-8627-4f25-a2ee-0c1158caaf6e,1,Raymond,Dagger,2,14,4,Charlie,Dagger,-1,12,1,Raymond
+2026-04-20 13:00:19,9df04a8b-f5b8-42e3-8341-f49e0c878a85,1,Raymond,Shortsword,40,7,5,Marcus,Shortsword,-4,7,1,Raymond
+2026-04-20 13:00:24,48ef7c4a-9441-4d71-a9a2-58c6a03f20d0,5,Marcus,Shortsword,0,4,2,Daylen,Shortsword,14,9,2,Daylen

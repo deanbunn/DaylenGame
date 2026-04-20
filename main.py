@@ -12,11 +12,24 @@ import time
 #Default Method
 def main():
 
-    #List of Conflict Sounds
-    conflict_sounds = game_utilities.load_conflict_sounds()
-
     #Var for Total Rounds
     total_rounds = 0
+
+    #Var for Game Unique GUID
+    game_guid = str(uuid.uuid4())
+
+    #Vars for Game Winners
+    game_winner_id = 0
+    game_winner_name = ""
+
+    #Empty List for Game Data to Write to Log
+    game_data = []
+
+    #Empty List for Round Data to Write to Log
+    round_data = []
+
+    #List of Conflict Sounds
+    conflict_sounds = game_utilities.load_conflict_sounds()
 
     #List for Entrants
     entrants = game_resources.get_entrants_listing()
@@ -40,23 +53,6 @@ def main():
 
     #Display Start Message
     print("Let's get ready to rumble!\n")
-
-    #######################
-    # Starting the Match
-    #######################
-
-    #Var for Game Unique GUID
-    game_guid = str(uuid.uuid4())
-
-    #Vars for Game Winners
-    game_winner_id = 0
-    game_winner_name = ""
-
-    #Empty List for Game Data to Write to Log
-    game_data = []
-
-    #Empty List for Round Data to Write to Log
-    round_data = []
 
     #While loop for entrants health
     while entrant1.health > 0 and entrant2.health > 0:
@@ -160,10 +156,12 @@ def main():
                       entrant1.name,
                       entrant1.weapon.category,
                       entrant1.health,
+                      entrant1.wins,
                       entrant2.id,
                       entrant2.name,
                       entrant2.weapon.category,
                       entrant2.health,
+                      entrant2.wins,
                       game_winner_id,
                       game_winner_name])
     

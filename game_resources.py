@@ -4,6 +4,7 @@
 import json
 import random
 
+
 #Class for Weapon
 class Weapon:
     def __init__(self,
