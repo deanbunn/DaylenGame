@@ -1,6 +1,6 @@
 ## Daylen Game
 
-A quick command-line app to learn coding and the development process.
+A command-line app to learn coding and the development process.
 
 ### Game Description:
 
