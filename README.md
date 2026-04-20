@@ -6,7 +6,7 @@ A quick command-line app to learn coding and the development process.
 
 Running the main.py script initializes the required variables and creates a list of game entrants from local resource files. Each entrant is randomly assigned a weapon. Matches are formed by pairing two randomly selected entrants. 
 
-In each round, an entrant can attack their opponent a number of times determined by their ability scores. If an attack exceeds the opponent’s armor class, it deals damage based on the weapon’s dynamic value. 
+In each round, an entrant may attack their opponent a number of times based on their ability scores. If an attack roll exceeds the opponent’s armor class, it deals damage according to the weapon’s dynamic value. Additionally, five onomatopoeic words will appear at random to represent the action in the round. 
 
 A match ends when one contestant’s health drops to zero or below.
 
@@ -37,7 +37,7 @@ A match ends when one contestant’s health drops to zero or below.
 
 
 
-### General Python Information:
+### General Python Resources:
 
 [Python Interpreter Downloads](https://www.python.org/downloads/)
 
