@@ -6,96 +6,20 @@ from game_utilities import log_game_data
 from datetime import datetime
 import uuid
 import random
+import time
 
 
 #Default Method
 def main():
 
-    #Display Start Message
-    print("\nLet's start the game!")
+    #List of Conflict Sounds
+    conflict_sounds = ['AIEEE','ARRGH','AWK','BAM','BANG','BONK','CLANK','CLUNK','CRUNCH','EEE-YOW','KAPOW','OWWW','POW','RIP','SWAAP','THUNK','THWACK']
 
     #Var for Total Rounds
     total_rounds = 0
 
-    #List for Weapons
-    weapons = []
-
     #List for Entrants
-    entrants = []
-
-    #########################
-    # Initiate Game Weapons
-    #########################
-
-    #Initiate Piano
-    piano = game_resources.Weapon(name="Grand Dad",
-                                  category="Piano",
-                                  size="l",
-                                  damage=25)
-    
-    #Initiate Dagger
-    dagger = game_resources.Weapon(name="I am the Spy!",
-                                   category="Dagger",
-                                   size="s",
-                                   damage=5)
-    
-    #Initiate Club
-    club =  game_resources.Weapon(name="Unga and Bunga",
-                                  category="Club",
-                                  size="s",
-                                  damage=5)
-    
-    #Initiate Shortsword 
-    shortsword = game_resources.Weapon(name="The Inbetween",
-                                       category="Shortsword",
-                                       size="m",
-                                       damage=10)
-    
-    #Initiate Greatsword
-    greatsword = game_resources.Weapon(name="The Dark Souls",
-                                       category="Greatsword",
-                                       size="l",
-                                       damage=15)
-    
-    #Load Weapons List
-    weapons.append(piano)
-    weapons.append(dagger)
-    weapons.append(club)
-    weapons.append(shortsword)
-    weapons.append(greatsword)
-
-    ##########################
-    # Initiate Game Entrants
-    ##########################
-
-    #Initiate Raymond
-    raymond = game_resources.Entrant(name="Raymond",
-                                     strength=15,
-                                     weapon_instance=weapons[random.randint(0,len(weapons) -1)])
-
-    #Initiate Daylen
-    daylen = game_resources.Entrant(name="Daylen",
-                                    speed=15,
-                                    intelligence=20,
-                                    weapon_instance=weapons[random.randint(0,len(weapons) -1)])
-
-    #Initiate Juan
-    juan = game_resources.Entrant(name="Juan",
-                                  speed=12,
-                                  strength=15,
-                                  weapon_instance=weapons[random.randint(0,len(weapons) -1)])
-    
-    #Initiate Charlie 
-    charlie = game_resources.Entrant(name="Charlie",
-                                     speed=14,
-                                     intelligence=15,
-                                     weapon_instance=weapons[random.randint(0,len(weapons) -1)])
-
-    #Load Entrants List
-    entrants.append(raymond)
-    entrants.append(daylen)
-    entrants.append(juan)
-    entrants.append(charlie)
+    entrants = game_resources.get_entrants_listing()
 
     #Randomly Determine the Two Entrants
     entrant1 = entrants[random.randint(0,len(entrants) -1)]
@@ -106,10 +30,16 @@ def main():
         entrant2 = entrants[random.randint(0,len(entrants) -1)]
 
 
+    #Display Start Message
+    print("\nThe Match Contestants:")
+
     #Show Entrants Stats
     print(entrant1.showstats())
     print("vs.")
     print(entrant2.showstats())
+
+    #Display Start Message
+    print("Let's get ready to rumble!\n")
 
     #######################
     # Starting the Match
@@ -126,6 +56,20 @@ def main():
 
         #Increment total rounds by 1
         total_rounds += 1
+
+        #Pause Script for Match Realism
+        time.sleep(0.25)
+
+        #Var for Conflict Sound
+        round_sound = ""
+
+        #Dynamically Configure Round Sound
+        for s in range(5):
+            round_sound += conflict_sounds[random.randint(0,len(conflict_sounds) -1)] + " "
+        
+
+        #Display Round Sound
+        print(round_sound)
 
         #Var for Round Winner
         round_winner = ""
@@ -179,9 +123,9 @@ def main():
     log_game_data(gamedata)
 
     #Reporting the outcome of the match
-    print("Played a total of " + str(total_rounds) + " rounds!")
-    print(entrant1.name + " won " + str(entrant1.wins) + " rounds" + " health is " + str(entrant1.health))
-    print(entrant2.name + " won " + str(entrant2.wins) + " rounds" + " health is " + str(entrant2.health) + "\n")
+    print("\n\nContest lasted a total of " + str(total_rounds) + " rounds!")
+    print(entrant1.name + " won " + str(entrant1.wins) + " rounds." + " Health status at " + str(entrant1.health))
+    print(entrant2.name + " won " + str(entrant2.wins) + " rounds." + " Health status at " + str(entrant2.health) + "\n")
     
     #Display Winner's Name and Weapon Name
     if entrant1.health >= entrant2.health:

@@ -1,7 +1,7 @@
 #Import Required Modules
 import csv
 import os
-
+import json
 
 def log_game_data(gamedata,logname="game-log.csv"):
 
@@ -18,6 +18,9 @@ def log_game_data(gamedata,logname="game-log.csv"):
 
         #Write Game Data to Log File
         writer.writerows(gamedata)
+
+
+
 
 
 
