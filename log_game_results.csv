@@ -1,0 +1,11 @@
+timestamp,game_id,entrant1_id,entrant1_name,entrant1_weapon,entrant1_health,entrant2_id,entrant2_name,entrant2_weapon,entrant2_health,winner_id,winner_name
+2026-04-20 08:16:02,041365aa-2906-4f23-bccc-f23d5b7f62b1,3,Juan,Greatsword,64,4,Charlie,Club,-5,3,Juan
+2026-04-20 08:19:53,0df8c7dc-63ad-4335-88cd-00287601b879,2,Daylen,Dagger,-3,4,Charlie,Piano,68,4,Charlie
+2026-04-20 08:20:03,8b129c66-4440-49b6-aec0-77d86b978337,5,Marcus,Dagger,-4,1,Raymond,Club,3,1,Raymond
+2026-04-20 08:20:13,5a4c14fb-d323-4b10-b9cf-e2875e43e87c,4,Charlie,Club,-21,3,Juan,Piano,68,3,Juan
+2026-04-20 08:20:20,9edb5d4b-fe40-48ce-b0be-d5aba0cee7f6,1,Raymond,Piano,62,2,Daylen,Club,-9,1,Raymond
+2026-04-20 08:20:34,64cd339e-43e6-40f0-894d-65f94c4185e8,5,Marcus,Club,-11,1,Raymond,Piano,61,1,Raymond
+2026-04-20 08:20:43,d46ed057-0301-47de-9588-2c9386c4b6cf,5,Marcus,Club,-2,2,Daylen,Club,30,2,Daylen
+2026-04-20 08:20:51,cbd728fe-9830-47ce-99d2-1e7cc9917760,5,Marcus,Piano,83,3,Juan,Dagger,-13,5,Marcus
+2026-04-20 08:20:59,95aff254-356f-4ed3-9fc9-d93dd9f6f130,4,Charlie,Dagger,-1,5,Marcus,Piano,67,5,Marcus
+2026-04-20 08:21:05,17cbe6f3-dba1-4afe-bb60-dded59adcc36,2,Daylen,Shortsword,77,1,Raymond,Dagger,-9,2,Daylen

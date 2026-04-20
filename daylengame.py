@@ -2,7 +2,7 @@
 
 #Import Required Modules
 import game_resources
-from game_utilities import log_game_data
+from game_utilities import log_round_data,log_game_data
 from datetime import datetime
 import uuid
 import random
@@ -46,10 +46,17 @@ def main():
     #######################
 
     #Var for Game Unique GUID
-    gameguid = str(uuid.uuid4())
+    game_guid = str(uuid.uuid4())
+
+    #Vars for Game Winners
+    game_winner_id = 0
+    game_winner_name = ""
 
     #Empty List for Game Data to Write to Log
-    gamedata = []
+    game_data = []
+
+    #Empty List for Round Data to Write to Log
+    round_data = []
 
     #While loop for entrants health
     while entrant1.health > 0 and entrant2.health > 0:
@@ -111,24 +118,24 @@ def main():
             round_winner_id = entrant2.id
             
         
-        #Add to Log Virtual Data
-        gamedata.append([datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-                        gameguid,
-                        total_rounds,
-                        entrant1.id,
-                        entrant1.name,
-                        entrant1.weapon.category,
-                        ent1_per_rnd_damage,
-                        entrant2.id,
-                        entrant2.name,
-                        entrant2.weapon.category,
-                        ent2_per_rnd_damage,
-                        round_winner_id,
-                        round_winner])
+        #Add to Round Log Virtual Data
+        round_data.append([datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                          game_guid,
+                          total_rounds,
+                          entrant1.id,
+                          entrant1.name,
+                          entrant1.weapon.category,
+                          ent1_per_rnd_damage,
+                          entrant2.id,
+                          entrant2.name,
+                          entrant2.weapon.category,
+                          ent2_per_rnd_damage,
+                          round_winner_id,
+                          round_winner])
 
         
     #Logging Match Data
-    log_game_data(gamedata)
+    log_round_data(round_data)
 
     #Reporting the outcome of the match
     print("\n\nContest lasted a total of " + str(total_rounds) + " rounds!")
@@ -138,9 +145,32 @@ def main():
     #Display Winner's Name and Weapon Name
     if entrant1.health >= entrant2.health:
         print(entrant1.name + " was victorious using \"" + entrant1.weapon.name + "\" " + entrant1.weapon.category + "\n")
+        game_winner_id = entrant1.id
+        game_winner_name = entrant1.name
     else:
         print(entrant2.name + " was victorious using \"" + entrant2.weapon.name + "\" " + entrant2.weapon.category + "\n")
+        game_winner_id = entrant2.id
+        game_winner_name = entrant2.name
 
+
+    #Add to Game Log Virtual Data
+    game_data.append([datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                      game_guid,
+                      entrant1.id,
+                      entrant1.name,
+                      entrant1.weapon.category,
+                      entrant1.health,
+                      entrant2.id,
+                      entrant2.name,
+                      entrant2.weapon.category,
+                      entrant2.health,
+                      game_winner_id,
+                      game_winner_name])
+    
+    #Logging Game Data
+    log_game_data(game_data)
+
+    
     
 
 #Check to See If Script Ran Directly Instead of Imported
