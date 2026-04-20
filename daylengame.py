@@ -2,7 +2,7 @@
 
 #Import Required Modules
 import game_resources
-from game_utilities import log_round_data,log_game_data
+import game_utilities
 from datetime import datetime
 import uuid
 import random
@@ -13,7 +13,7 @@ import time
 def main():
 
     #List of Conflict Sounds
-    conflict_sounds = ['AIEEE','ARRGH','AWK','BAM','BANG','BONK','CLANK','CLUNK','CRUNCH','EEE-YOW','KAPOW','OWWW','POW','RIP','SWAAP','THUNK','THWACK']
+    conflict_sounds = game_utilities.load_conflict_sounds()
 
     #Var for Total Rounds
     total_rounds = 0
@@ -135,7 +135,7 @@ def main():
 
         
     #Logging Match Data
-    log_round_data(round_data)
+    game_utilities.log_round_data(round_data)
 
     #Reporting the outcome of the match
     print("\n\nContest lasted a total of " + str(total_rounds) + " rounds!")
@@ -168,7 +168,7 @@ def main():
                       game_winner_name])
     
     #Logging Game Data
-    log_game_data(game_data)
+    game_utilities.log_game_data(game_data)
 
     
     

@@ -3,6 +3,7 @@ import csv
 import os
 import json
 
+
 def log_round_data(rounddata,logname="log_round_results.csv"):
 
     #Check If Round Log File Exists
@@ -61,3 +62,14 @@ def log_game_data(gamedata,logname="log_game_results.csv"):
         writer.writerows(gamedata)
 
 
+def load_conflict_sounds(soundsfile="utility_conflict_sounds.txt"):
+    
+    #List to Return
+    conflictsounds = []
+
+    with open(soundsfile,"r") as f:
+        for line in f:
+            conflictsounds.append(line.strip())
+
+    
+    return conflictsounds

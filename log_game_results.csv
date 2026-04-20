@@ -9,3 +9,6 @@ timestamp,game_id,entrant1_id,entrant1_name,entrant1_weapon,entrant1_health,entr
 2026-04-20 08:20:51,cbd728fe-9830-47ce-99d2-1e7cc9917760,5,Marcus,Piano,83,3,Juan,Dagger,-13,5,Marcus
 2026-04-20 08:20:59,95aff254-356f-4ed3-9fc9-d93dd9f6f130,4,Charlie,Dagger,-1,5,Marcus,Piano,67,5,Marcus
 2026-04-20 08:21:05,17cbe6f3-dba1-4afe-bb60-dded59adcc36,2,Daylen,Shortsword,77,1,Raymond,Dagger,-9,2,Daylen
+2026-04-20 08:26:55,3b393e94-8766-47f4-9392-e4c5c8808fbc,2,Daylen,Piano,94,1,Raymond,Club,-21,2,Daylen
+2026-04-20 08:30:55,f373c635-984e-4919-bf7a-8c0b3adefbf7,4,Charlie,Dagger,-1,1,Raymond,Shortsword,38,1,Raymond
+2026-04-20 09:57:12,d40cd839-d581-4689-a5f1-26f555a8113a,3,Juan,Greatsword,45,4,Charlie,Dagger,0,3,Juan
