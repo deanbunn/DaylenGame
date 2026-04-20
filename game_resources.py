@@ -29,7 +29,7 @@ class Entrant:
                  speed=10,
                  strength=10,
                  armor_class=10):
-        self.id = id,
+        self.id = id
         self.name = name
         self.intelligence = intelligence
         self.speed = speed

@@ -71,8 +71,9 @@ def main():
         #Display Round Sound
         print(round_sound)
 
-        #Var for Round Winner
+        #Vars for Round Winner
         round_winner = ""
+        round_winner_id = 0
 
         #Var for Entrant 1 Per Round Damage
         ent1_per_rnd_damage = 0
@@ -103,19 +104,26 @@ def main():
         if ent1_per_rnd_damage >= ent2_per_rnd_damage:
             entrant1.wins += 1
             round_winner = entrant1.name
+            round_winner_id = entrant1.id
         else:
             entrant2.wins += 1
             round_winner = entrant2.name
+            round_winner_id = entrant2.id
             
         
         #Add to Log Virtual Data
         gamedata.append([datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
                         gameguid,
                         total_rounds,
+                        entrant1.id,
+                        entrant1.name,
                         entrant1.weapon.category,
                         ent1_per_rnd_damage,
+                        entrant2.id,
+                        entrant2.name,
                         entrant2.weapon.category,
                         ent2_per_rnd_damage,
+                        round_winner_id,
                         round_winner])
 
         
