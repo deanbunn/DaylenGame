@@ -79,3 +79,25 @@ def load_conflict_sounds(soundsfile="utility_conflict_sounds.txt"):
 
     
     return conflictsounds
+
+
+def count_game_wins(logname="log_game_results.csv"):
+    
+    #Dict to Return
+    sorted_counts = {}
+
+    #Dict for Parsing
+    counts = {}
+
+    #Parse Through CSV File and Load Dict Based Upon Winner Name and Number of Appearences
+    with open(logname,newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            value = row['winner_name']
+            counts[value] = counts.get(value,0) + 1
+
+    #Sort the Counts by the Second Value
+    sorted_counts = sorted(counts.items(), key=lambda x: x[1], reverse=True)
+    
+    return sorted_counts
+

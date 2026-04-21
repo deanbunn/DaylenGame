@@ -80,3 +80,309 @@ timestamp,game_id,round,entrant1_id,entrant1_name,entrant1_armor,entrant1_weapon
 2026-04-21 09:24:46,b7e4983c-e830-48f1-95fa-81ff7663e467,5,2,Daylen,Scale,Greatsword,34,3,Juan,Wooden Shield,Shortsword,9,2,Daylen
 2026-04-21 09:24:46,b7e4983c-e830-48f1-95fa-81ff7663e467,6,2,Daylen,Scale,Greatsword,0,3,Juan,Wooden Shield,Shortsword,4,3,Juan
 2026-04-21 09:24:47,b7e4983c-e830-48f1-95fa-81ff7663e467,7,2,Daylen,Scale,Greatsword,14,3,Juan,Wooden Shield,Shortsword,0,2,Daylen
+2026-04-21 14:06:43,627b599b-3cea-4d28-b10d-3e2e080cd70b,1,1,Raymond,Steel Shield,Dagger,0,2,Daylen,Iron Gauntlets,Shortsword,0,1,Raymond
+2026-04-21 14:06:44,627b599b-3cea-4d28-b10d-3e2e080cd70b,2,1,Raymond,Steel Shield,Dagger,4,2,Daylen,Iron Gauntlets,Shortsword,8,2,Daylen
+2026-04-21 14:06:44,627b599b-3cea-4d28-b10d-3e2e080cd70b,3,1,Raymond,Steel Shield,Dagger,4,2,Daylen,Iron Gauntlets,Shortsword,5,2,Daylen
+2026-04-21 14:06:44,627b599b-3cea-4d28-b10d-3e2e080cd70b,4,1,Raymond,Steel Shield,Dagger,0,2,Daylen,Iron Gauntlets,Shortsword,7,2,Daylen
+2026-04-21 14:06:44,627b599b-3cea-4d28-b10d-3e2e080cd70b,5,1,Raymond,Steel Shield,Dagger,10,2,Daylen,Iron Gauntlets,Shortsword,3,1,Raymond
+2026-04-21 14:06:45,627b599b-3cea-4d28-b10d-3e2e080cd70b,6,1,Raymond,Steel Shield,Dagger,7,2,Daylen,Iron Gauntlets,Shortsword,13,2,Daylen
+2026-04-21 14:06:45,627b599b-3cea-4d28-b10d-3e2e080cd70b,7,1,Raymond,Steel Shield,Dagger,5,2,Daylen,Iron Gauntlets,Shortsword,12,2,Daylen
+2026-04-21 14:06:45,627b599b-3cea-4d28-b10d-3e2e080cd70b,8,1,Raymond,Steel Shield,Dagger,0,2,Daylen,Iron Gauntlets,Shortsword,7,2,Daylen
+2026-04-21 14:06:45,627b599b-3cea-4d28-b10d-3e2e080cd70b,9,1,Raymond,Steel Shield,Dagger,2,2,Daylen,Iron Gauntlets,Shortsword,4,2,Daylen
+2026-04-21 14:06:46,627b599b-3cea-4d28-b10d-3e2e080cd70b,10,1,Raymond,Steel Shield,Dagger,5,2,Daylen,Iron Gauntlets,Shortsword,18,2,Daylen
+2026-04-21 14:06:46,627b599b-3cea-4d28-b10d-3e2e080cd70b,11,1,Raymond,Steel Shield,Dagger,4,2,Daylen,Iron Gauntlets,Shortsword,1,1,Raymond
+2026-04-21 14:06:46,627b599b-3cea-4d28-b10d-3e2e080cd70b,12,1,Raymond,Steel Shield,Dagger,1,2,Daylen,Iron Gauntlets,Shortsword,7,2,Daylen
+2026-04-21 14:06:46,627b599b-3cea-4d28-b10d-3e2e080cd70b,13,1,Raymond,Steel Shield,Dagger,0,2,Daylen,Iron Gauntlets,Shortsword,2,2,Daylen
+2026-04-21 14:06:47,627b599b-3cea-4d28-b10d-3e2e080cd70b,14,1,Raymond,Steel Shield,Dagger,5,2,Daylen,Iron Gauntlets,Shortsword,3,1,Raymond
+2026-04-21 14:06:47,627b599b-3cea-4d28-b10d-3e2e080cd70b,15,1,Raymond,Steel Shield,Dagger,1,2,Daylen,Iron Gauntlets,Shortsword,23,2,Daylen
+2026-04-21 14:32:44,9b05715f-6652-4ba3-9d6b-bedde39d49ed,1,5,Marcus,Wooden Shield,Club,2,4,Charlie,Full Plate,Dagger,4,4,Charlie
+2026-04-21 14:32:44,9b05715f-6652-4ba3-9d6b-bedde39d49ed,2,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,4,4,Charlie
+2026-04-21 14:32:44,9b05715f-6652-4ba3-9d6b-bedde39d49ed,3,5,Marcus,Wooden Shield,Club,1,4,Charlie,Full Plate,Dagger,2,4,Charlie
+2026-04-21 14:32:45,9b05715f-6652-4ba3-9d6b-bedde39d49ed,4,5,Marcus,Wooden Shield,Club,4,4,Charlie,Full Plate,Dagger,0,5,Marcus
+2026-04-21 14:32:45,9b05715f-6652-4ba3-9d6b-bedde39d49ed,5,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,9,4,Charlie
+2026-04-21 14:32:45,9b05715f-6652-4ba3-9d6b-bedde39d49ed,6,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,5,4,Charlie
+2026-04-21 14:32:45,9b05715f-6652-4ba3-9d6b-bedde39d49ed,7,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,7,4,Charlie
+2026-04-21 14:32:46,9b05715f-6652-4ba3-9d6b-bedde39d49ed,8,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,0,5,Marcus
+2026-04-21 14:32:46,9b05715f-6652-4ba3-9d6b-bedde39d49ed,9,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,5,4,Charlie
+2026-04-21 14:32:46,9b05715f-6652-4ba3-9d6b-bedde39d49ed,10,5,Marcus,Wooden Shield,Club,5,4,Charlie,Full Plate,Dagger,2,5,Marcus
+2026-04-21 14:32:46,9b05715f-6652-4ba3-9d6b-bedde39d49ed,11,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,2,4,Charlie
+2026-04-21 14:32:47,9b05715f-6652-4ba3-9d6b-bedde39d49ed,12,5,Marcus,Wooden Shield,Club,2,4,Charlie,Full Plate,Dagger,4,4,Charlie
+2026-04-21 14:32:47,9b05715f-6652-4ba3-9d6b-bedde39d49ed,13,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,5,4,Charlie
+2026-04-21 14:32:47,9b05715f-6652-4ba3-9d6b-bedde39d49ed,14,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,1,4,Charlie
+2026-04-21 14:32:47,9b05715f-6652-4ba3-9d6b-bedde39d49ed,15,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,4,4,Charlie
+2026-04-21 14:32:48,9b05715f-6652-4ba3-9d6b-bedde39d49ed,16,5,Marcus,Wooden Shield,Club,5,4,Charlie,Full Plate,Dagger,6,4,Charlie
+2026-04-21 14:32:48,9b05715f-6652-4ba3-9d6b-bedde39d49ed,17,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,2,4,Charlie
+2026-04-21 14:32:48,9b05715f-6652-4ba3-9d6b-bedde39d49ed,18,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,0,5,Marcus
+2026-04-21 14:32:48,9b05715f-6652-4ba3-9d6b-bedde39d49ed,19,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,3,4,Charlie
+2026-04-21 14:32:49,9b05715f-6652-4ba3-9d6b-bedde39d49ed,20,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,5,4,Charlie
+2026-04-21 14:32:49,9b05715f-6652-4ba3-9d6b-bedde39d49ed,21,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,4,4,Charlie
+2026-04-21 14:32:49,9b05715f-6652-4ba3-9d6b-bedde39d49ed,22,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,5,4,Charlie
+2026-04-21 14:32:49,9b05715f-6652-4ba3-9d6b-bedde39d49ed,23,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,5,4,Charlie
+2026-04-21 14:32:50,9b05715f-6652-4ba3-9d6b-bedde39d49ed,24,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,0,5,Marcus
+2026-04-21 14:32:50,9b05715f-6652-4ba3-9d6b-bedde39d49ed,25,5,Marcus,Wooden Shield,Club,3,4,Charlie,Full Plate,Dagger,4,4,Charlie
+2026-04-21 14:32:50,9b05715f-6652-4ba3-9d6b-bedde39d49ed,26,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,3,4,Charlie
+2026-04-21 14:32:50,9b05715f-6652-4ba3-9d6b-bedde39d49ed,27,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,2,4,Charlie
+2026-04-21 14:32:51,9b05715f-6652-4ba3-9d6b-bedde39d49ed,28,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,6,4,Charlie
+2026-04-21 14:32:51,9b05715f-6652-4ba3-9d6b-bedde39d49ed,29,5,Marcus,Wooden Shield,Club,0,4,Charlie,Full Plate,Dagger,5,4,Charlie
+2026-04-21 14:33:51,496db699-f08e-4b4b-83de-1cfc17a3586f,1,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,3,4,Charlie
+2026-04-21 14:33:52,496db699-f08e-4b4b-83de-1cfc17a3586f,2,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,5,4,Charlie
+2026-04-21 14:33:52,496db699-f08e-4b4b-83de-1cfc17a3586f,3,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,2,4,Charlie
+2026-04-21 14:33:52,496db699-f08e-4b4b-83de-1cfc17a3586f,4,5,Marcus,Steel Shield,Club,3,4,Charlie,Full Plate,Club,0,5,Marcus
+2026-04-21 14:33:52,496db699-f08e-4b4b-83de-1cfc17a3586f,5,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,0,5,Marcus
+2026-04-21 14:33:53,496db699-f08e-4b4b-83de-1cfc17a3586f,6,5,Marcus,Steel Shield,Club,2,4,Charlie,Full Plate,Club,5,4,Charlie
+2026-04-21 14:33:53,496db699-f08e-4b4b-83de-1cfc17a3586f,7,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,0,5,Marcus
+2026-04-21 14:33:53,496db699-f08e-4b4b-83de-1cfc17a3586f,8,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,6,4,Charlie
+2026-04-21 14:33:53,496db699-f08e-4b4b-83de-1cfc17a3586f,9,5,Marcus,Steel Shield,Club,1,4,Charlie,Full Plate,Club,8,4,Charlie
+2026-04-21 14:33:54,496db699-f08e-4b4b-83de-1cfc17a3586f,10,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,2,4,Charlie
+2026-04-21 14:33:54,496db699-f08e-4b4b-83de-1cfc17a3586f,11,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,0,5,Marcus
+2026-04-21 14:33:54,496db699-f08e-4b4b-83de-1cfc17a3586f,12,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,4,4,Charlie
+2026-04-21 14:33:54,496db699-f08e-4b4b-83de-1cfc17a3586f,13,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,9,4,Charlie
+2026-04-21 14:33:55,496db699-f08e-4b4b-83de-1cfc17a3586f,14,5,Marcus,Steel Shield,Club,3,4,Charlie,Full Plate,Club,0,5,Marcus
+2026-04-21 14:33:55,496db699-f08e-4b4b-83de-1cfc17a3586f,15,5,Marcus,Steel Shield,Club,4,4,Charlie,Full Plate,Club,4,5,Marcus
+2026-04-21 14:33:55,496db699-f08e-4b4b-83de-1cfc17a3586f,16,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,1,4,Charlie
+2026-04-21 14:33:55,496db699-f08e-4b4b-83de-1cfc17a3586f,17,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,0,5,Marcus
+2026-04-21 14:33:56,496db699-f08e-4b4b-83de-1cfc17a3586f,18,5,Marcus,Steel Shield,Club,4,4,Charlie,Full Plate,Club,4,5,Marcus
+2026-04-21 14:33:56,496db699-f08e-4b4b-83de-1cfc17a3586f,19,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,6,4,Charlie
+2026-04-21 14:33:56,496db699-f08e-4b4b-83de-1cfc17a3586f,20,5,Marcus,Steel Shield,Club,4,4,Charlie,Full Plate,Club,0,5,Marcus
+2026-04-21 14:33:56,496db699-f08e-4b4b-83de-1cfc17a3586f,21,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,0,5,Marcus
+2026-04-21 14:33:57,496db699-f08e-4b4b-83de-1cfc17a3586f,22,5,Marcus,Steel Shield,Club,1,4,Charlie,Full Plate,Club,5,4,Charlie
+2026-04-21 14:33:57,496db699-f08e-4b4b-83de-1cfc17a3586f,23,5,Marcus,Steel Shield,Club,5,4,Charlie,Full Plate,Club,5,5,Marcus
+2026-04-21 14:33:57,496db699-f08e-4b4b-83de-1cfc17a3586f,24,5,Marcus,Steel Shield,Club,2,4,Charlie,Full Plate,Club,3,4,Charlie
+2026-04-21 14:33:57,496db699-f08e-4b4b-83de-1cfc17a3586f,25,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,0,5,Marcus
+2026-04-21 14:33:58,496db699-f08e-4b4b-83de-1cfc17a3586f,26,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,5,4,Charlie
+2026-04-21 14:33:58,496db699-f08e-4b4b-83de-1cfc17a3586f,27,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,6,4,Charlie
+2026-04-21 14:33:58,496db699-f08e-4b4b-83de-1cfc17a3586f,28,5,Marcus,Steel Shield,Club,2,4,Charlie,Full Plate,Club,5,4,Charlie
+2026-04-21 14:33:58,496db699-f08e-4b4b-83de-1cfc17a3586f,29,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,4,4,Charlie
+2026-04-21 14:33:59,496db699-f08e-4b4b-83de-1cfc17a3586f,30,5,Marcus,Steel Shield,Club,2,4,Charlie,Full Plate,Club,4,4,Charlie
+2026-04-21 14:33:59,496db699-f08e-4b4b-83de-1cfc17a3586f,31,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,0,5,Marcus
+2026-04-21 14:33:59,496db699-f08e-4b4b-83de-1cfc17a3586f,32,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,2,4,Charlie
+2026-04-21 14:33:59,496db699-f08e-4b4b-83de-1cfc17a3586f,33,5,Marcus,Steel Shield,Club,0,4,Charlie,Full Plate,Club,5,4,Charlie
+2026-04-21 14:36:44,0c20bda2-c987-458c-ba07-c1bd93fbf41f,1,5,Marcus,Steel Shield,Piano,3,2,Daylen,Steel Shield,Dagger,13,2,Daylen
+2026-04-21 14:36:44,0c20bda2-c987-458c-ba07-c1bd93fbf41f,2,5,Marcus,Steel Shield,Piano,23,2,Daylen,Steel Shield,Dagger,0,5,Marcus
+2026-04-21 14:36:45,0c20bda2-c987-458c-ba07-c1bd93fbf41f,3,5,Marcus,Steel Shield,Piano,30,2,Daylen,Steel Shield,Dagger,1,5,Marcus
+2026-04-21 14:36:45,0c20bda2-c987-458c-ba07-c1bd93fbf41f,4,5,Marcus,Steel Shield,Piano,2,2,Daylen,Steel Shield,Dagger,2,5,Marcus
+2026-04-21 14:36:45,0c20bda2-c987-458c-ba07-c1bd93fbf41f,5,5,Marcus,Steel Shield,Piano,17,2,Daylen,Steel Shield,Dagger,7,5,Marcus
+2026-04-21 14:36:45,0c20bda2-c987-458c-ba07-c1bd93fbf41f,6,5,Marcus,Steel Shield,Piano,20,2,Daylen,Steel Shield,Dagger,10,5,Marcus
+2026-04-21 14:36:46,0c20bda2-c987-458c-ba07-c1bd93fbf41f,7,5,Marcus,Steel Shield,Piano,0,2,Daylen,Steel Shield,Dagger,3,2,Daylen
+2026-04-21 14:36:46,0c20bda2-c987-458c-ba07-c1bd93fbf41f,8,5,Marcus,Steel Shield,Piano,1,2,Daylen,Steel Shield,Dagger,8,2,Daylen
+2026-04-21 14:36:46,0c20bda2-c987-458c-ba07-c1bd93fbf41f,9,5,Marcus,Steel Shield,Piano,6,2,Daylen,Steel Shield,Dagger,6,5,Marcus
+2026-04-21 14:44:55,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,1,5,Marcus,Wooden Shield,Club,1,1,Raymond,Leather,Club,7,1,Raymond
+2026-04-21 14:44:55,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,2,5,Marcus,Wooden Shield,Club,0,1,Raymond,Leather,Club,3,1,Raymond
+2026-04-21 14:44:55,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,3,5,Marcus,Wooden Shield,Club,0,1,Raymond,Leather,Club,8,1,Raymond
+2026-04-21 14:44:55,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,4,5,Marcus,Wooden Shield,Club,0,1,Raymond,Leather,Club,2,1,Raymond
+2026-04-21 14:44:56,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,5,5,Marcus,Wooden Shield,Club,0,1,Raymond,Leather,Club,4,1,Raymond
+2026-04-21 14:44:56,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,6,5,Marcus,Wooden Shield,Club,3,1,Raymond,Leather,Club,5,1,Raymond
+2026-04-21 14:44:56,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,7,5,Marcus,Wooden Shield,Club,4,1,Raymond,Leather,Club,1,5,Marcus
+2026-04-21 14:44:56,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,8,5,Marcus,Wooden Shield,Club,1,1,Raymond,Leather,Club,2,1,Raymond
+2026-04-21 14:44:57,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,9,5,Marcus,Wooden Shield,Club,0,1,Raymond,Leather,Club,5,1,Raymond
+2026-04-21 14:44:57,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,10,5,Marcus,Wooden Shield,Club,0,1,Raymond,Leather,Club,5,1,Raymond
+2026-04-21 14:44:57,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,11,5,Marcus,Wooden Shield,Club,3,1,Raymond,Leather,Club,0,5,Marcus
+2026-04-21 14:44:57,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,12,5,Marcus,Wooden Shield,Club,3,1,Raymond,Leather,Club,8,1,Raymond
+2026-04-21 14:44:58,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,13,5,Marcus,Wooden Shield,Club,6,1,Raymond,Leather,Club,4,5,Marcus
+2026-04-21 14:44:58,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,14,5,Marcus,Wooden Shield,Club,0,1,Raymond,Leather,Club,5,1,Raymond
+2026-04-21 14:44:58,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,15,5,Marcus,Wooden Shield,Club,2,1,Raymond,Leather,Club,1,5,Marcus
+2026-04-21 14:44:58,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,16,5,Marcus,Wooden Shield,Club,6,1,Raymond,Leather,Club,3,5,Marcus
+2026-04-21 14:44:59,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,17,5,Marcus,Wooden Shield,Club,7,1,Raymond,Leather,Club,2,5,Marcus
+2026-04-21 14:44:59,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,18,5,Marcus,Wooden Shield,Club,2,1,Raymond,Leather,Club,3,1,Raymond
+2026-04-21 14:44:59,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,19,5,Marcus,Wooden Shield,Club,0,1,Raymond,Leather,Club,1,1,Raymond
+2026-04-21 14:44:59,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,20,5,Marcus,Wooden Shield,Club,4,1,Raymond,Leather,Club,6,1,Raymond
+2026-04-21 14:45:00,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,21,5,Marcus,Wooden Shield,Club,4,1,Raymond,Leather,Club,8,1,Raymond
+2026-04-21 14:45:00,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,22,5,Marcus,Wooden Shield,Club,2,1,Raymond,Leather,Club,2,5,Marcus
+2026-04-21 14:45:00,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,23,5,Marcus,Wooden Shield,Club,5,1,Raymond,Leather,Club,1,5,Marcus
+2026-04-21 14:45:00,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,24,5,Marcus,Wooden Shield,Club,5,1,Raymond,Leather,Club,5,5,Marcus
+2026-04-21 14:45:01,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,25,5,Marcus,Wooden Shield,Club,0,1,Raymond,Leather,Club,9,1,Raymond
+2026-04-21 14:46:28,aed539ec-b1e1-49d7-b843-073a7e9b6653,1,1,Raymond,Wooden Shield,Shortsword,8,3,Juan,Wooden Shield,Dagger,2,1,Raymond
+2026-04-21 14:46:28,aed539ec-b1e1-49d7-b843-073a7e9b6653,2,1,Raymond,Wooden Shield,Shortsword,1,3,Juan,Wooden Shield,Dagger,4,3,Juan
+2026-04-21 14:46:28,aed539ec-b1e1-49d7-b843-073a7e9b6653,3,1,Raymond,Wooden Shield,Shortsword,8,3,Juan,Wooden Shield,Dagger,3,1,Raymond
+2026-04-21 14:46:28,aed539ec-b1e1-49d7-b843-073a7e9b6653,4,1,Raymond,Wooden Shield,Shortsword,0,3,Juan,Wooden Shield,Dagger,3,3,Juan
+2026-04-21 14:46:29,aed539ec-b1e1-49d7-b843-073a7e9b6653,5,1,Raymond,Wooden Shield,Shortsword,11,3,Juan,Wooden Shield,Dagger,3,1,Raymond
+2026-04-21 14:46:29,aed539ec-b1e1-49d7-b843-073a7e9b6653,6,1,Raymond,Wooden Shield,Shortsword,13,3,Juan,Wooden Shield,Dagger,6,1,Raymond
+2026-04-21 14:46:29,aed539ec-b1e1-49d7-b843-073a7e9b6653,7,1,Raymond,Wooden Shield,Shortsword,2,3,Juan,Wooden Shield,Dagger,10,3,Juan
+2026-04-21 14:46:29,aed539ec-b1e1-49d7-b843-073a7e9b6653,8,1,Raymond,Wooden Shield,Shortsword,11,3,Juan,Wooden Shield,Dagger,3,1,Raymond
+2026-04-21 14:46:30,aed539ec-b1e1-49d7-b843-073a7e9b6653,9,1,Raymond,Wooden Shield,Shortsword,7,3,Juan,Wooden Shield,Dagger,4,1,Raymond
+2026-04-21 14:46:30,aed539ec-b1e1-49d7-b843-073a7e9b6653,10,1,Raymond,Wooden Shield,Shortsword,6,3,Juan,Wooden Shield,Dagger,4,1,Raymond
+2026-04-21 14:46:30,aed539ec-b1e1-49d7-b843-073a7e9b6653,11,1,Raymond,Wooden Shield,Shortsword,3,3,Juan,Wooden Shield,Dagger,3,1,Raymond
+2026-04-21 14:46:30,aed539ec-b1e1-49d7-b843-073a7e9b6653,12,1,Raymond,Wooden Shield,Shortsword,0,3,Juan,Wooden Shield,Dagger,6,3,Juan
+2026-04-21 14:46:31,aed539ec-b1e1-49d7-b843-073a7e9b6653,13,1,Raymond,Wooden Shield,Shortsword,3,3,Juan,Wooden Shield,Dagger,0,1,Raymond
+2026-04-21 14:46:31,aed539ec-b1e1-49d7-b843-073a7e9b6653,14,1,Raymond,Wooden Shield,Shortsword,5,3,Juan,Wooden Shield,Dagger,1,1,Raymond
+2026-04-21 14:46:31,aed539ec-b1e1-49d7-b843-073a7e9b6653,15,1,Raymond,Wooden Shield,Shortsword,7,3,Juan,Wooden Shield,Dagger,6,1,Raymond
+2026-04-21 14:46:31,aed539ec-b1e1-49d7-b843-073a7e9b6653,16,1,Raymond,Wooden Shield,Shortsword,6,3,Juan,Wooden Shield,Dagger,3,1,Raymond
+2026-04-21 14:46:32,aed539ec-b1e1-49d7-b843-073a7e9b6653,17,1,Raymond,Wooden Shield,Shortsword,11,3,Juan,Wooden Shield,Dagger,6,1,Raymond
+2026-04-21 14:53:28,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,1,4,Charlie,Full Plate,Club,6,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:28,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,2,4,Charlie,Full Plate,Club,2,1,Raymond,Steel Shield,Dagger,1,4,Charlie
+2026-04-21 14:53:29,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,3,4,Charlie,Full Plate,Club,0,1,Raymond,Steel Shield,Dagger,5,1,Raymond
+2026-04-21 14:53:29,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,4,4,Charlie,Full Plate,Club,8,1,Raymond,Steel Shield,Dagger,5,4,Charlie
+2026-04-21 14:53:29,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,5,4,Charlie,Full Plate,Club,0,1,Raymond,Steel Shield,Dagger,5,1,Raymond
+2026-04-21 14:53:29,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,6,4,Charlie,Full Plate,Club,2,1,Raymond,Steel Shield,Dagger,4,1,Raymond
+2026-04-21 14:53:30,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,7,4,Charlie,Full Plate,Club,4,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:30,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,8,4,Charlie,Full Plate,Club,1,1,Raymond,Steel Shield,Dagger,4,1,Raymond
+2026-04-21 14:53:30,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,9,4,Charlie,Full Plate,Club,0,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:30,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,10,4,Charlie,Full Plate,Club,1,1,Raymond,Steel Shield,Dagger,5,1,Raymond
+2026-04-21 14:53:31,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,11,4,Charlie,Full Plate,Club,0,1,Raymond,Steel Shield,Dagger,1,1,Raymond
+2026-04-21 14:53:31,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,12,4,Charlie,Full Plate,Club,0,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:31,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,13,4,Charlie,Full Plate,Club,3,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:31,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,14,4,Charlie,Full Plate,Club,5,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:32,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,15,4,Charlie,Full Plate,Club,8,1,Raymond,Steel Shield,Dagger,8,4,Charlie
+2026-04-21 14:53:32,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,16,4,Charlie,Full Plate,Club,5,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:32,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,17,4,Charlie,Full Plate,Club,9,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:32,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,18,4,Charlie,Full Plate,Club,0,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:33,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,19,4,Charlie,Full Plate,Club,0,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:33,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,20,4,Charlie,Full Plate,Club,2,1,Raymond,Steel Shield,Dagger,1,4,Charlie
+2026-04-21 14:53:33,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,21,4,Charlie,Full Plate,Club,3,1,Raymond,Steel Shield,Dagger,5,1,Raymond
+2026-04-21 14:53:33,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,22,4,Charlie,Full Plate,Club,5,1,Raymond,Steel Shield,Dagger,4,4,Charlie
+2026-04-21 14:53:34,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,23,4,Charlie,Full Plate,Club,4,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:34,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,24,4,Charlie,Full Plate,Club,4,1,Raymond,Steel Shield,Dagger,3,4,Charlie
+2026-04-21 14:53:34,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,25,4,Charlie,Full Plate,Club,5,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:34,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,26,4,Charlie,Full Plate,Club,1,1,Raymond,Steel Shield,Dagger,1,4,Charlie
+2026-04-21 14:53:35,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,27,4,Charlie,Full Plate,Club,0,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:35,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,28,4,Charlie,Full Plate,Club,0,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:35,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,29,4,Charlie,Full Plate,Club,1,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:35,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,30,4,Charlie,Full Plate,Club,1,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:36,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,31,4,Charlie,Full Plate,Club,1,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:36,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,32,4,Charlie,Full Plate,Club,2,1,Raymond,Steel Shield,Dagger,5,1,Raymond
+2026-04-21 14:53:36,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,33,4,Charlie,Full Plate,Club,0,1,Raymond,Steel Shield,Dagger,3,1,Raymond
+2026-04-21 14:53:36,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,34,4,Charlie,Full Plate,Club,2,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:37,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,35,4,Charlie,Full Plate,Club,0,1,Raymond,Steel Shield,Dagger,2,1,Raymond
+2026-04-21 14:53:37,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,36,4,Charlie,Full Plate,Club,7,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:37,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,37,4,Charlie,Full Plate,Club,6,1,Raymond,Steel Shield,Dagger,3,4,Charlie
+2026-04-21 14:53:37,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,38,4,Charlie,Full Plate,Club,1,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:38,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,39,4,Charlie,Full Plate,Club,0,1,Raymond,Steel Shield,Dagger,0,4,Charlie
+2026-04-21 14:53:38,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,40,4,Charlie,Full Plate,Club,2,1,Raymond,Steel Shield,Dagger,3,1,Raymond
+2026-04-21 14:55:46,b248ff00-73bd-49cb-850e-92df8d44b653,1,1,Raymond,Full Plate,Greatsword,14,4,Charlie,Scale,Club,5,1,Raymond
+2026-04-21 14:55:47,b248ff00-73bd-49cb-850e-92df8d44b653,2,1,Raymond,Full Plate,Greatsword,13,4,Charlie,Scale,Club,0,1,Raymond
+2026-04-21 14:55:47,b248ff00-73bd-49cb-850e-92df8d44b653,3,1,Raymond,Full Plate,Greatsword,7,4,Charlie,Scale,Club,0,1,Raymond
+2026-04-21 14:55:47,b248ff00-73bd-49cb-850e-92df8d44b653,4,1,Raymond,Full Plate,Greatsword,3,4,Charlie,Scale,Club,3,1,Raymond
+2026-04-21 14:55:47,b248ff00-73bd-49cb-850e-92df8d44b653,5,1,Raymond,Full Plate,Greatsword,0,4,Charlie,Scale,Club,0,1,Raymond
+2026-04-21 14:55:48,b248ff00-73bd-49cb-850e-92df8d44b653,6,1,Raymond,Full Plate,Greatsword,3,4,Charlie,Scale,Club,3,1,Raymond
+2026-04-21 14:55:48,b248ff00-73bd-49cb-850e-92df8d44b653,7,1,Raymond,Full Plate,Greatsword,8,4,Charlie,Scale,Club,0,1,Raymond
+2026-04-21 14:55:48,b248ff00-73bd-49cb-850e-92df8d44b653,8,1,Raymond,Full Plate,Greatsword,17,4,Charlie,Scale,Club,0,1,Raymond
+2026-04-21 14:55:48,b248ff00-73bd-49cb-850e-92df8d44b653,9,1,Raymond,Full Plate,Greatsword,13,4,Charlie,Scale,Club,0,1,Raymond
+2026-04-21 14:55:49,b248ff00-73bd-49cb-850e-92df8d44b653,10,1,Raymond,Full Plate,Greatsword,13,4,Charlie,Scale,Club,0,1,Raymond
+2026-04-21 14:55:49,b248ff00-73bd-49cb-850e-92df8d44b653,11,1,Raymond,Full Plate,Greatsword,0,4,Charlie,Scale,Club,0,1,Raymond
+2026-04-21 14:55:49,b248ff00-73bd-49cb-850e-92df8d44b653,12,1,Raymond,Full Plate,Greatsword,4,4,Charlie,Scale,Club,0,1,Raymond
+2026-04-21 14:55:49,b248ff00-73bd-49cb-850e-92df8d44b653,13,1,Raymond,Full Plate,Greatsword,29,4,Charlie,Scale,Club,0,1,Raymond
+2026-04-21 14:57:31,2a583c66-2f73-4afc-877c-ab02bceb7521,1,3,Juan,Full Plate,Club,5,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:31,2a583c66-2f73-4afc-877c-ab02bceb7521,2,3,Juan,Full Plate,Club,3,4,Charlie,Scale,Greatsword,10,4,Charlie
+2026-04-21 14:57:31,2a583c66-2f73-4afc-877c-ab02bceb7521,3,3,Juan,Full Plate,Club,5,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:32,2a583c66-2f73-4afc-877c-ab02bceb7521,4,3,Juan,Full Plate,Club,0,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:32,2a583c66-2f73-4afc-877c-ab02bceb7521,5,3,Juan,Full Plate,Club,2,4,Charlie,Scale,Greatsword,8,4,Charlie
+2026-04-21 14:57:32,2a583c66-2f73-4afc-877c-ab02bceb7521,6,3,Juan,Full Plate,Club,2,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:32,2a583c66-2f73-4afc-877c-ab02bceb7521,7,3,Juan,Full Plate,Club,0,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:33,2a583c66-2f73-4afc-877c-ab02bceb7521,8,3,Juan,Full Plate,Club,5,4,Charlie,Scale,Greatsword,15,4,Charlie
+2026-04-21 14:57:33,2a583c66-2f73-4afc-877c-ab02bceb7521,9,3,Juan,Full Plate,Club,0,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:33,2a583c66-2f73-4afc-877c-ab02bceb7521,10,3,Juan,Full Plate,Club,2,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:33,2a583c66-2f73-4afc-877c-ab02bceb7521,11,3,Juan,Full Plate,Club,4,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:34,2a583c66-2f73-4afc-877c-ab02bceb7521,12,3,Juan,Full Plate,Club,0,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:34,2a583c66-2f73-4afc-877c-ab02bceb7521,13,3,Juan,Full Plate,Club,4,4,Charlie,Scale,Greatsword,5,4,Charlie
+2026-04-21 14:57:34,2a583c66-2f73-4afc-877c-ab02bceb7521,14,3,Juan,Full Plate,Club,4,4,Charlie,Scale,Greatsword,15,4,Charlie
+2026-04-21 14:57:34,2a583c66-2f73-4afc-877c-ab02bceb7521,15,3,Juan,Full Plate,Club,2,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:35,2a583c66-2f73-4afc-877c-ab02bceb7521,16,3,Juan,Full Plate,Club,0,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:35,2a583c66-2f73-4afc-877c-ab02bceb7521,17,3,Juan,Full Plate,Club,2,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:35,2a583c66-2f73-4afc-877c-ab02bceb7521,18,3,Juan,Full Plate,Club,0,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:35,2a583c66-2f73-4afc-877c-ab02bceb7521,19,3,Juan,Full Plate,Club,6,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:36,2a583c66-2f73-4afc-877c-ab02bceb7521,20,3,Juan,Full Plate,Club,10,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:36,2a583c66-2f73-4afc-877c-ab02bceb7521,21,3,Juan,Full Plate,Club,0,4,Charlie,Scale,Greatsword,13,4,Charlie
+2026-04-21 14:57:36,2a583c66-2f73-4afc-877c-ab02bceb7521,22,3,Juan,Full Plate,Club,5,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:36,2a583c66-2f73-4afc-877c-ab02bceb7521,23,3,Juan,Full Plate,Club,6,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:37,2a583c66-2f73-4afc-877c-ab02bceb7521,24,3,Juan,Full Plate,Club,1,4,Charlie,Scale,Greatsword,4,4,Charlie
+2026-04-21 14:57:37,2a583c66-2f73-4afc-877c-ab02bceb7521,25,3,Juan,Full Plate,Club,5,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:37,2a583c66-2f73-4afc-877c-ab02bceb7521,26,3,Juan,Full Plate,Club,4,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:37,2a583c66-2f73-4afc-877c-ab02bceb7521,27,3,Juan,Full Plate,Club,0,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:38,2a583c66-2f73-4afc-877c-ab02bceb7521,28,3,Juan,Full Plate,Club,4,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:38,2a583c66-2f73-4afc-877c-ab02bceb7521,29,3,Juan,Full Plate,Club,5,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:38,2a583c66-2f73-4afc-877c-ab02bceb7521,30,3,Juan,Full Plate,Club,3,4,Charlie,Scale,Greatsword,5,4,Charlie
+2026-04-21 14:57:38,2a583c66-2f73-4afc-877c-ab02bceb7521,31,3,Juan,Full Plate,Club,6,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:57:39,2a583c66-2f73-4afc-877c-ab02bceb7521,32,3,Juan,Full Plate,Club,8,4,Charlie,Scale,Greatsword,0,3,Juan
+2026-04-21 14:59:24,7a73d2ad-ffd9-43f9-9e8a-c81215fd34eb,1,5,Marcus,Wooden Shield,Shortsword,0,2,Daylen,Full Plate,Piano,32,2,Daylen
+2026-04-21 14:59:24,7a73d2ad-ffd9-43f9-9e8a-c81215fd34eb,2,5,Marcus,Wooden Shield,Shortsword,10,2,Daylen,Full Plate,Piano,16,2,Daylen
+2026-04-21 14:59:25,7a73d2ad-ffd9-43f9-9e8a-c81215fd34eb,3,5,Marcus,Wooden Shield,Shortsword,5,2,Daylen,Full Plate,Piano,40,2,Daylen
+2026-04-21 14:59:25,7a73d2ad-ffd9-43f9-9e8a-c81215fd34eb,4,5,Marcus,Wooden Shield,Shortsword,9,2,Daylen,Full Plate,Piano,12,2,Daylen
+2026-04-21 15:01:52,559059ec-4f20-42a3-a7d1-4892eb09ae5f,1,1,Raymond,Chainmail,Dagger,2,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:01:52,559059ec-4f20-42a3-a7d1-4892eb09ae5f,2,1,Raymond,Chainmail,Dagger,0,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:01:52,559059ec-4f20-42a3-a7d1-4892eb09ae5f,3,1,Raymond,Chainmail,Dagger,4,3,Juan,Iron Gauntlets,Dagger,1,1,Raymond
+2026-04-21 15:01:52,559059ec-4f20-42a3-a7d1-4892eb09ae5f,4,1,Raymond,Chainmail,Dagger,0,3,Juan,Iron Gauntlets,Dagger,4,3,Juan
+2026-04-21 15:01:53,559059ec-4f20-42a3-a7d1-4892eb09ae5f,5,1,Raymond,Chainmail,Dagger,7,3,Juan,Iron Gauntlets,Dagger,2,1,Raymond
+2026-04-21 15:01:53,559059ec-4f20-42a3-a7d1-4892eb09ae5f,6,1,Raymond,Chainmail,Dagger,4,3,Juan,Iron Gauntlets,Dagger,4,1,Raymond
+2026-04-21 15:01:53,559059ec-4f20-42a3-a7d1-4892eb09ae5f,7,1,Raymond,Chainmail,Dagger,6,3,Juan,Iron Gauntlets,Dagger,1,1,Raymond
+2026-04-21 15:01:53,559059ec-4f20-42a3-a7d1-4892eb09ae5f,8,1,Raymond,Chainmail,Dagger,1,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:01:54,559059ec-4f20-42a3-a7d1-4892eb09ae5f,9,1,Raymond,Chainmail,Dagger,3,3,Juan,Iron Gauntlets,Dagger,5,3,Juan
+2026-04-21 15:01:54,559059ec-4f20-42a3-a7d1-4892eb09ae5f,10,1,Raymond,Chainmail,Dagger,0,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:01:54,559059ec-4f20-42a3-a7d1-4892eb09ae5f,11,1,Raymond,Chainmail,Dagger,1,3,Juan,Iron Gauntlets,Dagger,2,3,Juan
+2026-04-21 15:01:54,559059ec-4f20-42a3-a7d1-4892eb09ae5f,12,1,Raymond,Chainmail,Dagger,2,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:01:55,559059ec-4f20-42a3-a7d1-4892eb09ae5f,13,1,Raymond,Chainmail,Dagger,1,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:01:55,559059ec-4f20-42a3-a7d1-4892eb09ae5f,14,1,Raymond,Chainmail,Dagger,6,3,Juan,Iron Gauntlets,Dagger,4,1,Raymond
+2026-04-21 15:01:55,559059ec-4f20-42a3-a7d1-4892eb09ae5f,15,1,Raymond,Chainmail,Dagger,0,3,Juan,Iron Gauntlets,Dagger,2,3,Juan
+2026-04-21 15:01:55,559059ec-4f20-42a3-a7d1-4892eb09ae5f,16,1,Raymond,Chainmail,Dagger,5,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:01:56,559059ec-4f20-42a3-a7d1-4892eb09ae5f,17,1,Raymond,Chainmail,Dagger,3,3,Juan,Iron Gauntlets,Dagger,3,1,Raymond
+2026-04-21 15:01:56,559059ec-4f20-42a3-a7d1-4892eb09ae5f,18,1,Raymond,Chainmail,Dagger,1,3,Juan,Iron Gauntlets,Dagger,1,1,Raymond
+2026-04-21 15:01:56,559059ec-4f20-42a3-a7d1-4892eb09ae5f,19,1,Raymond,Chainmail,Dagger,3,3,Juan,Iron Gauntlets,Dagger,6,3,Juan
+2026-04-21 15:01:56,559059ec-4f20-42a3-a7d1-4892eb09ae5f,20,1,Raymond,Chainmail,Dagger,1,3,Juan,Iron Gauntlets,Dagger,7,3,Juan
+2026-04-21 15:01:57,559059ec-4f20-42a3-a7d1-4892eb09ae5f,21,1,Raymond,Chainmail,Dagger,6,3,Juan,Iron Gauntlets,Dagger,3,1,Raymond
+2026-04-21 15:01:57,559059ec-4f20-42a3-a7d1-4892eb09ae5f,22,1,Raymond,Chainmail,Dagger,2,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:01:57,559059ec-4f20-42a3-a7d1-4892eb09ae5f,23,1,Raymond,Chainmail,Dagger,0,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:01:57,559059ec-4f20-42a3-a7d1-4892eb09ae5f,24,1,Raymond,Chainmail,Dagger,10,3,Juan,Iron Gauntlets,Dagger,3,1,Raymond
+2026-04-21 15:01:58,559059ec-4f20-42a3-a7d1-4892eb09ae5f,25,1,Raymond,Chainmail,Dagger,3,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:01:58,559059ec-4f20-42a3-a7d1-4892eb09ae5f,26,1,Raymond,Chainmail,Dagger,0,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:01:58,559059ec-4f20-42a3-a7d1-4892eb09ae5f,27,1,Raymond,Chainmail,Dagger,5,3,Juan,Iron Gauntlets,Dagger,3,1,Raymond
+2026-04-21 15:01:58,559059ec-4f20-42a3-a7d1-4892eb09ae5f,28,1,Raymond,Chainmail,Dagger,8,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:01:59,559059ec-4f20-42a3-a7d1-4892eb09ae5f,29,1,Raymond,Chainmail,Dagger,4,3,Juan,Iron Gauntlets,Dagger,5,3,Juan
+2026-04-21 15:01:59,559059ec-4f20-42a3-a7d1-4892eb09ae5f,30,1,Raymond,Chainmail,Dagger,8,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:01:59,559059ec-4f20-42a3-a7d1-4892eb09ae5f,31,1,Raymond,Chainmail,Dagger,2,3,Juan,Iron Gauntlets,Dagger,5,3,Juan
+2026-04-21 15:01:59,559059ec-4f20-42a3-a7d1-4892eb09ae5f,32,1,Raymond,Chainmail,Dagger,1,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:02:00,559059ec-4f20-42a3-a7d1-4892eb09ae5f,33,1,Raymond,Chainmail,Dagger,1,3,Juan,Iron Gauntlets,Dagger,0,1,Raymond
+2026-04-21 15:03:03,0092d89a-6c84-47eb-ae1f-2c25ea2f9149,1,3,Juan,Leather,Club,2,4,Charlie,Iron Gauntlets,Piano,13,4,Charlie
+2026-04-21 15:03:03,0092d89a-6c84-47eb-ae1f-2c25ea2f9149,2,3,Juan,Leather,Club,0,4,Charlie,Iron Gauntlets,Piano,0,3,Juan
+2026-04-21 15:03:03,0092d89a-6c84-47eb-ae1f-2c25ea2f9149,3,3,Juan,Leather,Club,5,4,Charlie,Iron Gauntlets,Piano,0,3,Juan
+2026-04-21 15:03:04,0092d89a-6c84-47eb-ae1f-2c25ea2f9149,4,3,Juan,Leather,Club,9,4,Charlie,Iron Gauntlets,Piano,1,3,Juan
+2026-04-21 15:03:04,0092d89a-6c84-47eb-ae1f-2c25ea2f9149,5,3,Juan,Leather,Club,3,4,Charlie,Iron Gauntlets,Piano,10,4,Charlie
+2026-04-21 15:03:04,0092d89a-6c84-47eb-ae1f-2c25ea2f9149,6,3,Juan,Leather,Club,0,4,Charlie,Iron Gauntlets,Piano,6,4,Charlie
+2026-04-21 15:03:04,0092d89a-6c84-47eb-ae1f-2c25ea2f9149,7,3,Juan,Leather,Club,0,4,Charlie,Iron Gauntlets,Piano,0,3,Juan
+2026-04-21 15:03:05,0092d89a-6c84-47eb-ae1f-2c25ea2f9149,8,3,Juan,Leather,Club,6,4,Charlie,Iron Gauntlets,Piano,41,4,Charlie
+2026-04-21 15:03:05,0092d89a-6c84-47eb-ae1f-2c25ea2f9149,9,3,Juan,Leather,Club,4,4,Charlie,Iron Gauntlets,Piano,8,4,Charlie
+2026-04-21 15:03:05,0092d89a-6c84-47eb-ae1f-2c25ea2f9149,10,3,Juan,Leather,Club,2,4,Charlie,Iron Gauntlets,Piano,0,3,Juan
+2026-04-21 15:03:05,0092d89a-6c84-47eb-ae1f-2c25ea2f9149,11,3,Juan,Leather,Club,2,4,Charlie,Iron Gauntlets,Piano,1,3,Juan
+2026-04-21 15:03:06,0092d89a-6c84-47eb-ae1f-2c25ea2f9149,12,3,Juan,Leather,Club,1,4,Charlie,Iron Gauntlets,Piano,39,4,Charlie
+2026-04-21 15:04:42,6c17073b-767e-4039-9e59-140ee01b1ca5,1,4,Charlie,Scale,Greatsword,0,3,Juan,Leather,Dagger,0,4,Charlie
+2026-04-21 15:04:42,6c17073b-767e-4039-9e59-140ee01b1ca5,2,4,Charlie,Scale,Greatsword,4,3,Juan,Leather,Dagger,6,3,Juan
+2026-04-21 15:04:42,6c17073b-767e-4039-9e59-140ee01b1ca5,3,4,Charlie,Scale,Greatsword,0,3,Juan,Leather,Dagger,0,4,Charlie
+2026-04-21 15:04:42,6c17073b-767e-4039-9e59-140ee01b1ca5,4,4,Charlie,Scale,Greatsword,11,3,Juan,Leather,Dagger,4,4,Charlie
+2026-04-21 15:04:43,6c17073b-767e-4039-9e59-140ee01b1ca5,5,4,Charlie,Scale,Greatsword,23,3,Juan,Leather,Dagger,7,4,Charlie
+2026-04-21 15:04:43,6c17073b-767e-4039-9e59-140ee01b1ca5,6,4,Charlie,Scale,Greatsword,0,3,Juan,Leather,Dagger,3,3,Juan
+2026-04-21 15:04:43,6c17073b-767e-4039-9e59-140ee01b1ca5,7,4,Charlie,Scale,Greatsword,10,3,Juan,Leather,Dagger,0,4,Charlie
+2026-04-21 15:04:43,6c17073b-767e-4039-9e59-140ee01b1ca5,8,4,Charlie,Scale,Greatsword,8,3,Juan,Leather,Dagger,5,4,Charlie
+2026-04-21 15:04:44,6c17073b-767e-4039-9e59-140ee01b1ca5,9,4,Charlie,Scale,Greatsword,0,3,Juan,Leather,Dagger,1,3,Juan
+2026-04-21 15:04:44,6c17073b-767e-4039-9e59-140ee01b1ca5,10,4,Charlie,Scale,Greatsword,7,3,Juan,Leather,Dagger,2,4,Charlie
+2026-04-21 15:04:44,6c17073b-767e-4039-9e59-140ee01b1ca5,11,4,Charlie,Scale,Greatsword,6,3,Juan,Leather,Dagger,5,4,Charlie
+2026-04-21 15:04:44,6c17073b-767e-4039-9e59-140ee01b1ca5,12,4,Charlie,Scale,Greatsword,12,3,Juan,Leather,Dagger,1,4,Charlie
+2026-04-21 15:04:45,6c17073b-767e-4039-9e59-140ee01b1ca5,13,4,Charlie,Scale,Greatsword,0,3,Juan,Leather,Dagger,8,3,Juan
+2026-04-21 15:04:45,6c17073b-767e-4039-9e59-140ee01b1ca5,14,4,Charlie,Scale,Greatsword,10,3,Juan,Leather,Dagger,0,4,Charlie
+2026-04-21 15:04:45,6c17073b-767e-4039-9e59-140ee01b1ca5,15,4,Charlie,Scale,Greatsword,11,3,Juan,Leather,Dagger,2,4,Charlie
+2026-04-21 15:09:05,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,1,2,Daylen,Half Plate,Greatsword,16,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:05,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,2,2,Daylen,Half Plate,Greatsword,9,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:05,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,3,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:06,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,4,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:06,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,5,2,Daylen,Half Plate,Greatsword,5,5,Marcus,Full Plate,Dagger,5,2,Daylen
+2026-04-21 15:09:06,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,6,2,Daylen,Half Plate,Greatsword,1,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:06,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,7,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:07,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,8,2,Daylen,Half Plate,Greatsword,8,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:07,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,9,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,2,5,Marcus
+2026-04-21 15:09:07,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,10,2,Daylen,Half Plate,Greatsword,6,5,Marcus,Full Plate,Dagger,2,2,Daylen
+2026-04-21 15:09:07,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,11,2,Daylen,Half Plate,Greatsword,4,5,Marcus,Full Plate,Dagger,3,2,Daylen
+2026-04-21 15:09:08,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,12,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:08,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,13,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,1,5,Marcus
+2026-04-21 15:09:08,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,14,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,3,5,Marcus
+2026-04-21 15:09:08,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,15,2,Daylen,Half Plate,Greatsword,11,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:09,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,16,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,3,5,Marcus
+2026-04-21 15:09:09,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,17,2,Daylen,Half Plate,Greatsword,3,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:09,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,18,2,Daylen,Half Plate,Greatsword,2,5,Marcus,Full Plate,Dagger,2,2,Daylen
+2026-04-21 15:09:09,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,19,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,4,5,Marcus
+2026-04-21 15:09:10,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,20,2,Daylen,Half Plate,Greatsword,25,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:10,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,21,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,5,5,Marcus
+2026-04-21 15:09:10,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,22,2,Daylen,Half Plate,Greatsword,1,5,Marcus,Full Plate,Dagger,5,5,Marcus
+2026-04-21 15:09:10,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,23,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:11,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,24,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:11,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,25,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:11,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,26,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,4,5,Marcus
+2026-04-21 15:09:11,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,27,2,Daylen,Half Plate,Greatsword,3,5,Marcus,Full Plate,Dagger,0,2,Daylen
+2026-04-21 15:09:12,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,28,2,Daylen,Half Plate,Greatsword,0,5,Marcus,Full Plate,Dagger,4,5,Marcus
+2026-04-21 15:09:12,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,29,2,Daylen,Half Plate,Greatsword,10,5,Marcus,Full Plate,Dagger,0,2,Daylen

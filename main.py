@@ -142,7 +142,7 @@ def main():
     game_utilities.log_round_data(round_data)
 
     #Reporting the outcome of the match
-    print("\n\nContest lasted a total of " + str(total_rounds) + " rounds!")
+    print("\nContest lasted a total of " + str(total_rounds) + " rounds!")
     print(entrant1.name + " won " + str(entrant1.wins) + " rounds." + " Health status at " + str(entrant1.health))
     print(entrant2.name + " won " + str(entrant2.wins) + " rounds." + " Health status at " + str(entrant2.health) + "\n")
     
@@ -178,8 +178,20 @@ def main():
     #Logging Game Data
     game_utilities.log_game_data(game_data)
 
+    #Pull Game Wins
+    leader_board = game_utilities.count_game_wins()
+
+    #Display Leader Board
+    print("=" * 40)
+    print("Leader Board")
+    print("=" * 40)
+    print(f"{'Rank':<5} {'Name':<18} {'Wins':<5}")
+    print("-" * 40)
+    for i,(key,value) in enumerate(leader_board, start=1):
+        print(f"{i:<5} {key:<18} {value:<5}")
     
-    
+    print("\n")
+
 
 #Check to See If Script Ran Directly Instead of Imported
 if __name__ == "__main__":
