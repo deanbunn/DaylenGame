@@ -1,23 +1,8 @@
 timestamp,game_id,entrant1_id,entrant1_name,entrant1_armor,entrant1_weapon,entrant1_health,entrant1_rounds_won,entrant2_id,entrant2_name,entrant2_armor,entrant2_weapon,entrant2_health,entrant2_rounds_won,winner_id,winner_name
-2026-04-21 09:21:46,7f948537-42b6-49ab-b67a-3bc51772124f,3,Juan,Half Plate,Greatsword,81,7,2,Daylen,Wooden Shield,Club,0,1,3,Juan
-2026-04-21 09:21:52,98d983fa-43f1-40ea-aa6c-088c58e79d1c,2,Daylen,Wooden Shield,Greatsword,63,8,5,Marcus,Steel Shield,Club,-18,2,2,Daylen
-2026-04-21 09:21:59,db174946-3e47-49af-b3b6-8268b48856fe,1,Raymond,Steel Shield,Piano,-1,7,5,Marcus,Steel Shield,Greatsword,6,7,5,Marcus
-2026-04-21 09:22:48,1e8d8c7a-7b0b-418f-b714-d7c281e4c21e,4,Charlie,Chainmail,Shortsword,67,11,5,Marcus,Chainmail,Shortsword,-1,3,4,Charlie
-2026-04-21 09:23:20,69baeffc-faf4-40b8-bb3b-ff9460528b15,3,Juan,Leather,Shortsword,67,9,5,Marcus,Leather,Club,-9,2,3,Juan
-2026-04-21 09:24:25,43a4ee94-dbee-49f6-b07e-9efc7b664b72,2,Daylen,Iron Gauntlets,Dagger,-10,2,5,Marcus,Iron Gauntlets,Greatsword,64,8,5,Marcus
-2026-04-21 09:24:39,e1b49300-ee9a-4244-8777-2fa41f928917,5,Marcus,Chainmail,Piano,19,5,1,Raymond,Leather,Piano,-16,2,5,Marcus
-2026-04-21 09:24:47,b7e4983c-e830-48f1-95fa-81ff7663e467,2,Daylen,Scale,Greatsword,66,5,3,Juan,Wooden Shield,Shortsword,-1,2,2,Daylen
-2026-04-21 14:06:47,627b599b-3cea-4d28-b10d-3e2e080cd70b,1,Raymond,Steel Shield,Dagger,-13,4,2,Daylen,Iron Gauntlets,Shortsword,52,11,2,Daylen
-2026-04-21 14:32:51,9b05715f-6652-4ba3-9d6b-bedde39d49ed,5,Marcus,Wooden Shield,Club,-4,5,4,Charlie,Full Plate,Dagger,78,24,4,Charlie
-2026-04-21 14:33:59,496db699-f08e-4b4b-83de-1cfc17a3586f,5,Marcus,Steel Shield,Club,-3,13,4,Charlie,Full Plate,Club,67,20,4,Charlie
-2026-04-21 14:36:46,0c20bda2-c987-458c-ba07-c1bd93fbf41f,5,Marcus,Steel Shield,Piano,50,6,2,Daylen,Steel Shield,Dagger,-2,3,5,Marcus
-2026-04-21 14:45:01,1fb762e3-70cf-4b9d-bccb-3fd47b2ebaf7,5,Marcus,Wooden Shield,Club,0,9,1,Raymond,Leather,Club,42,16,1,Raymond
-2026-04-21 14:46:32,aed539ec-b1e1-49d7-b843-073a7e9b6653,1,Raymond,Wooden Shield,Shortsword,33,13,3,Juan,Wooden Shield,Dagger,-2,4,1,Raymond
-2026-04-21 14:53:38,71799b2e-6bc8-4801-8eac-d6c7770fd5d0,4,Charlie,Full Plate,Club,32,29,1,Raymond,Steel Shield,Dagger,-1,11,4,Charlie
-2026-04-21 14:55:49,b248ff00-73bd-49cb-850e-92df8d44b653,1,Raymond,Full Plate,Greatsword,89,13,4,Charlie,Scale,Club,-24,0,1,Raymond
-2026-04-21 14:57:39,2a583c66-2f73-4afc-877c-ab02bceb7521,3,Juan,Full Plate,Club,25,24,4,Charlie,Scale,Greatsword,-3,8,3,Juan
-2026-04-21 14:59:25,7a73d2ad-ffd9-43f9-9e8a-c81215fd34eb,5,Marcus,Wooden Shield,Shortsword,0,0,2,Daylen,Full Plate,Piano,76,4,2,Daylen
-2026-04-21 15:02:00,559059ec-4f20-42a3-a7d1-4892eb09ae5f,1,Raymond,Chainmail,Dagger,39,25,3,Juan,Iron Gauntlets,Dagger,0,8,1,Raymond
-2026-04-21 15:03:06,0092d89a-6c84-47eb-ae1f-2c25ea2f9149,3,Juan,Leather,Club,-19,6,4,Charlie,Iron Gauntlets,Piano,66,6,4,Charlie
-2026-04-21 15:04:45,6c17073b-767e-4039-9e59-140ee01b1ca5,4,Charlie,Scale,Greatsword,56,11,3,Juan,Leather,Dagger,-2,4,4,Charlie
-2026-04-21 15:09:12,0dc7588f-9b8d-4f95-97e9-b6c80dbda11f,2,Daylen,Half Plate,Greatsword,57,20,5,Marcus,Full Plate,Dagger,-4,9,2,Daylen
+2026-04-21 15:46:37,d218a4ed-7597-434a-800c-5147f0d2ca78,5,Marcus,Wooden Shield,Club,0,8,1,Raymond,Leather,Greatsword,51,7,1,Raymond
+2026-04-21 15:46:49,ec4bffbb-b4d6-4542-9172-550c3389e8c8,4,Charlie,Leather,Club,-4,19,5,Marcus,Chainmail,Dagger,22,18,5,Marcus
+2026-04-21 15:46:55,b7860275-54d9-4a92-849b-a376eb559304,2,Daylen,Scale,Shortsword,66,12,5,Marcus,Wooden Shield,Dagger,-1,2,2,Daylen
+2026-04-21 15:47:01,971ab821-ce35-47a4-9b3a-83d677915390,1,Raymond,Chainmail,Greatsword,72,12,2,Daylen,Iron Gauntlets,Dagger,-4,2,1,Raymond
+2026-04-21 15:47:08,ba9284d8-1644-4a3f-a9d0-247218b248f3,2,Daylen,Full Plate,Piano,79,11,5,Marcus,Full Plate,Shortsword,-2,2,2,Daylen
+2026-04-21 15:47:17,6ac80e38-dcd8-4e1d-8360-1130c33f31fc,1,Raymond,Chainmail,Shortsword,47,17,5,Marcus,Chainmail,Dagger,-4,8,1,Raymond
+2026-04-21 15:47:24,b33dcb04-cd7d-4efe-9ece-855e309f796c,5,Marcus,Steel Shield,Dagger,-6,4,1,Raymond,Chainmail,Greatsword,60,10,1,Raymond

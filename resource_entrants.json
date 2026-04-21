@@ -4,40 +4,35 @@
         "name":"Raymond",
         "intelligence":10,
         "speed":10,
-        "strength":15,
-        "armor_class":10
+        "strength":15
     },     
     {
         "id":2,
         "name":"Daylen",
         "intelligence":20,
         "speed":15,
-        "strength":10,
-        "armor_class":10
+        "strength":10
     },
     {
         "id":3,
         "name":"Juan",
         "intelligence":10,
         "speed":12,
-        "strength":15,
-        "armor_class":10
+        "strength":15
     },
     {
         "id":4,
         "name":"Charlie",
         "intelligence":15,
         "speed":14,
-        "strength":10,
-        "armor_class":10
+        "strength":10
     },
     {
         "id":5,
         "name":"Marcus",
         "intelligence":11,
         "speed":12,
-        "strength":14,
-        "armor_class":10
+        "strength":14
     }
 
 ]

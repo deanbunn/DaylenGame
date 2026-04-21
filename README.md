@@ -8,7 +8,7 @@ Running the main.py script initializes the required variables and creates a list
 
 In each round, an entrant may attack their opponent a number of times based on their ability scores. If an attack roll exceeds the opponent’s armor class, it deals damage according to the weapon’s dynamic value. Additionally, five onomatopoeic words will appear at random to represent the action in the round. 
 
-A match ends when one contestant’s health drops to zero or below.
+A match ends when one contestant’s health drops to zero or below. After each match, a leaderboard displays the entrants’ win rankings.
 
 ### File Overview:
 
@@ -33,7 +33,7 @@ A match ends when one contestant’s health drops to zero or below.
 4. Enjoy the game 
 
 
-   ![Game Output](Images/game-output-20260421.png)
+   ![Game Output](Images/game-output-202604211530.png)
 
 
 

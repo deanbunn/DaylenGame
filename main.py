@@ -183,7 +183,7 @@ def main():
 
     #Display Leader Board
     print("=" * 40)
-    print("Leader Board")
+    print("Leaderboard")
     print("=" * 40)
     print(f"{'Rank':<5} {'Name':<18} {'Wins':<5}")
     print("-" * 40)
