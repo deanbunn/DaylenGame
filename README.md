@@ -33,7 +33,7 @@ A match ends when one contestant’s health drops to zero or below. After each m
 4. Enjoy the game 
 
 
-   ![Game Output](Images/game-output-202604211530.png)
+   ![Game Output](Images/game-output-20260421.png)
 
 
 

@@ -1,8 +1,6 @@
 timestamp,game_id,entrant1_id,entrant1_name,entrant1_armor,entrant1_weapon,entrant1_health,entrant1_rounds_won,entrant2_id,entrant2_name,entrant2_armor,entrant2_weapon,entrant2_health,entrant2_rounds_won,winner_id,winner_name
-2026-04-21 15:46:37,d218a4ed-7597-434a-800c-5147f0d2ca78,5,Marcus,Wooden Shield,Club,0,8,1,Raymond,Leather,Greatsword,51,7,1,Raymond
-2026-04-21 15:46:49,ec4bffbb-b4d6-4542-9172-550c3389e8c8,4,Charlie,Leather,Club,-4,19,5,Marcus,Chainmail,Dagger,22,18,5,Marcus
-2026-04-21 15:46:55,b7860275-54d9-4a92-849b-a376eb559304,2,Daylen,Scale,Shortsword,66,12,5,Marcus,Wooden Shield,Dagger,-1,2,2,Daylen
-2026-04-21 15:47:01,971ab821-ce35-47a4-9b3a-83d677915390,1,Raymond,Chainmail,Greatsword,72,12,2,Daylen,Iron Gauntlets,Dagger,-4,2,1,Raymond
-2026-04-21 15:47:08,ba9284d8-1644-4a3f-a9d0-247218b248f3,2,Daylen,Full Plate,Piano,79,11,5,Marcus,Full Plate,Shortsword,-2,2,2,Daylen
-2026-04-21 15:47:17,6ac80e38-dcd8-4e1d-8360-1130c33f31fc,1,Raymond,Chainmail,Shortsword,47,17,5,Marcus,Chainmail,Dagger,-4,8,1,Raymond
-2026-04-21 15:47:24,b33dcb04-cd7d-4efe-9ece-855e309f796c,5,Marcus,Steel Shield,Dagger,-6,4,1,Raymond,Chainmail,Greatsword,60,10,1,Raymond
+2026-04-21 16:00:00,714b5bbb-6ac5-4bd8-9022-4599d95e124f,5,Marcus,Iron Gauntlets,Dagger,0,2,1,Raymond,Steel Shield,Piano,75,5,1,Raymond
+2026-04-21 16:00:08,79630397-c7f0-4225-b78a-ad795fc76c0c,2,Daylen,Half Plate,Club,-16,14,3,Juan,Scale,Piano,41,7,3,Juan
+2026-04-21 16:00:12,1935ca3e-c524-47af-93ec-39cb71007ace,3,Juan,Iron Gauntlets,Shortsword,-10,2,5,Marcus,Leather,Piano,68,6,5,Marcus
+2026-04-21 16:00:17,57e88c8f-e679-4e13-9de6-10fd50149388,5,Marcus,Scale,Piano,74,8,4,Charlie,Chainmail,Club,-20,3,5,Marcus
+2026-04-21 16:00:25,904a768c-b4d9-42b2-81ab-9e91452dd93f,5,Marcus,Chainmail,Club,-5,8,1,Raymond,Steel Shield,Shortsword,31,13,1,Raymond
