@@ -39,7 +39,7 @@ def main():
     entrant2 = entrants[random.randint(0,len(entrants) -1)]
 
     #Ensure Duplicate Entrants Are Not Selected
-    while entrant1.name == entrant2.name:
+    while entrant1.id == entrant2.id:
         entrant2 = entrants[random.randint(0,len(entrants) -1)]
 
 
@@ -51,8 +51,14 @@ def main():
     print("vs.")
     print(entrant2.showstats())
 
+    #Pause Script for Match Realism
+    time.sleep(1.0)
+
     #Display Start Message
     print("Let's get ready to rumble!\n")
+
+    #Pause Script for Match Realism
+    time.sleep(0.5)
 
     #While loop for entrants health
     while entrant1.health > 0 and entrant2.health > 0:
@@ -87,14 +93,14 @@ def main():
         #Determine Entrant 1 Attack Roles
         for ent1 in range(entrant1.attacks_per_round):
             #Var for Random Attack Role
-            if random.randint(1,20) >= entrant2.armor_class:
+            if random.randint(1,20) >= entrant2.armor.defense:
                 ent1_per_rnd_damage += random.randint(1,entrant1.weapon.damage)
 
 
         #Determine Entrant 2 Attack Roles
         for ent2 in range(entrant2.attacks_per_round):
             #Var for Random Attack Role
-            if random.randint(1,20) >= entrant1.armor_class:
+            if random.randint(1,20) >= entrant1.armor.defense:
                 ent2_per_rnd_damage += random.randint(1,entrant2.weapon.damage)
 
         
@@ -120,10 +126,12 @@ def main():
                           total_rounds,
                           entrant1.id,
                           entrant1.name,
+                          entrant1.armor.name,
                           entrant1.weapon.category,
                           ent1_per_rnd_damage,
                           entrant2.id,
                           entrant2.name,
+                          entrant2.armor.name,
                           entrant2.weapon.category,
                           ent2_per_rnd_damage,
                           round_winner_id,
@@ -154,11 +162,13 @@ def main():
                       game_guid,
                       entrant1.id,
                       entrant1.name,
+                      entrant1.armor.name,
                       entrant1.weapon.category,
                       entrant1.health,
                       entrant1.wins,
                       entrant2.id,
                       entrant2.name,
+                      entrant2.armor.name,
                       entrant2.weapon.category,
                       entrant2.health,
                       entrant2.wins,

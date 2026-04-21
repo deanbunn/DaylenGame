@@ -1,0 +1,50 @@
+[
+   {
+        "id":1,
+        "name":"Full Plate",
+        "type":"Suit",
+        "defense":17
+    },     
+    {
+        "id":2,
+        "name":"Half Plate",
+        "type":"Suit",
+        "defense":15
+    },
+    {
+        "id":3,
+        "name":"Leather",
+        "type":"Suit",
+        "defense":11
+    },
+    {
+        "id":4,
+        "name":"Scale",
+        "type":"Suit",
+        "defense":12
+    },
+    {
+        "id":5,
+        "name":"Chainmail",
+        "type":"Suit",
+        "defense":14
+    },
+    {
+        "id":6,
+        "name":"Wooden Shield",
+        "type":"Shield",
+        "defense":10
+    },
+    {
+        "id":7,
+        "name":"Steel Shield",
+        "type":"Shield",
+        "defense":12
+    },
+    {
+        "id":8,
+        "name":"Iron Gauntlets",
+        "type":"Gloves",
+        "defense":12
+    }
+]

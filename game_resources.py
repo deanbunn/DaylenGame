@@ -5,6 +5,19 @@ import json
 import random
 
 
+#Class for Armor
+class Armor:
+    def __init__(self,
+                 id=0,
+                 name="",
+                 type="",
+                 defense=5):
+        self.id = id
+        self.name = name
+        self.type = type
+        self.defense = defense
+
+
 #Class for Weapon
 class Weapon:
     def __init__(self,
@@ -23,19 +36,19 @@ class Weapon:
 #Class for Game Entrant
 class Entrant:
     def __init__(self,
+                 armor_instance,
                  weapon_instance,
                  id=0,
                  name="",
                  intelligence=10,
                  speed=10,
-                 strength=10,
-                 armor_class=10):
+                 strength=10):
         self.id = id
         self.name = name
         self.intelligence = intelligence
         self.speed = speed
         self.strength = strength
-        self.armor_class = armor_class
+        self.armor = armor_instance
         self.wins = 0
         self.health = 100
         self.attacks_per_round = 1
@@ -49,9 +62,30 @@ class Entrant:
         
 
     def showstats(self):
-        return f"\nName: {self.name} \nIntelligence: {self.intelligence} \nSpeed: {self.speed} \nStrength: {self.strength} \nArmour Class: {self.armor_class} \nWeapon: {self.weapon.category} \nAttacks Per Round: {self.attacks_per_round} \n"
+        return f"\nName: {self.name} \nIntelligence: {self.intelligence} \nSpeed: {self.speed} \nStrength: {self.strength} \nArmor: {self.armor.name} \nWeapon: {self.weapon.category} \nAttacks Per Round: {self.attacks_per_round} \n"
 
 
+
+#Function for Retrieving Armor Listing from Resource Json File
+def get_armor_listing():
+
+    #List for Armor Objects
+    armorlisting = []
+
+    #Load Armor Json File and Use Data to Create Armor Objects
+    with open("resource_armor.json") as f:
+        armor_json = json.load(f)
+
+        for arm in armor_json:
+            nwarm = Armor(id=arm["id"],
+                          name=arm["name"],
+                          type=arm["type"],
+                          defense=arm["defense"])
+            
+            #Add Armor to Armor Listing
+            armorlisting.append(nwarm)
+
+    return armorlisting
 
 #Function for Retrieving Weapon Listing from Resource Json File
 def get_weapon_listing():
@@ -85,6 +119,9 @@ def get_entrants_listing():
     #Pull Weapons List
     weapons = get_weapon_listing()
 
+    #Pull Armor List
+    armors = get_armor_listing()
+
     #Load Entrants Json File and Use Data to Create Entrant Objects
     with open("resource_entrants.json") as f:
         entrants_json = json.load(f)
@@ -95,7 +132,7 @@ def get_entrants_listing():
                               intelligence=etrt["intelligence"],
                               speed=etrt["speed"],
                               strength=etrt["strength"],
-                              armor_class=etrt["armor_class"],
+                              armor_instance=armors[random.randint(0,len(armors) -1)],
                               weapon_instance=weapons[random.randint(0,len(weapons) -1)]
                               )
 
