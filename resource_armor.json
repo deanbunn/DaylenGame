@@ -46,5 +46,18 @@
         "name":"Iron Gauntlets",
         "type":"Gloves",
         "defense":12
+    },
+    {
+        "id":9,
+        "name":"Cinder Soul Set",
+        "type":"Suit",
+        "defense":17
+    },
+    {
+        "id":10,
+        "name":"Hunter Attire",
+        "type":"Suit",
+        "defense": 14
     }
+
 ]

@@ -33,6 +33,41 @@
         "category":"Greatsword",
         "size":"l",
         "damage":15
+    },
+    {
+        "id":6,
+        "name":"Firelink Greatsword",
+        "category":"Greatsword",
+        "size":"l",
+        "damage":15
+    },
+    {
+        "id":7,
+        "name":"GreatAxe",
+        "category":"Greatsword",
+        "size":"l",
+        "damage":15
+    },
+    {
+        "id":8,
+        "name":"Raiper",
+        "category":"Dagger",
+        "size":"s",
+        "damage":10
+    },
+    {
+        "id":9,
+        "name":"Logarius' Wheel",
+        "category":"Greatsword",
+        "size":"l",
+        "damage":15
+    },
+    {
+        "id":10,
+        "name":"Star Fists",
+        "category":"Dagger",
+        "size":"s",
+        "damage":10
     }
 
 ]

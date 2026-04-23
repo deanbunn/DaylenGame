@@ -33,6 +33,41 @@
         "intelligence":11,
         "speed":12,
         "strength":14
+    },
+    {
+        "id":6,
+        "name":"Saul the Studied",
+        "intelligence":20,
+        "speed":15,
+        "strength":5
+    },
+    {
+        "id":7,
+        "name":"Wally West",
+        "intelligence":5,
+        "speed":20,
+        "strength":10
+    },
+    {
+        "id":8,
+        "name":"Brutus",
+        "intelligence":5,
+        "speed": 10,
+        "strength":20
+    },
+    {
+        "id":9,
+        "name":"David the Deprived",
+        "intelligence":5,
+        "speed":5,
+        "strength":5
+    },
+    {
+        "id":10,
+        "name":"John",
+        "intelligence":15,
+        "speed":10,
+        "strength":10
     }
 
 ]
