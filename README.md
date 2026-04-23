@@ -30,7 +30,7 @@ A match ends when one contestant’s health drops to zero or below. After each m
     ```bash
     python3 main.py
     ```
-4. Enjoy the game 
+4. [Enjoy the game](https://youtu.be/nvTR5tjLlPk)
 
 
    ![Game Output](Images/game-output-20260421.png)
