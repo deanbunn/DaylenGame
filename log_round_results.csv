@@ -645,3 +645,76 @@ timestamp,game_id,round,entrant1_id,entrant1_name,entrant1_armor,entrant1_weapon
 2026-04-22 18:14:27,a5d1b906-5e1c-462f-b424-702c5a20849d,23,3,Juan,Wooden Shield,Greatsword,13,7,Wally West,Cinder Soul Set,Dagger,5,3,Juan
 2026-04-22 18:14:27,a5d1b906-5e1c-462f-b424-702c5a20849d,24,3,Juan,Wooden Shield,Greatsword,0,7,Wally West,Cinder Soul Set,Dagger,5,7,Wally West
 2026-04-22 18:14:27,a5d1b906-5e1c-462f-b424-702c5a20849d,25,3,Juan,Wooden Shield,Greatsword,12,7,Wally West,Cinder Soul Set,Dagger,4,3,Juan
+2026-04-22 18:17:26,f32dd1dd-2692-4533-8fd4-c517010830ae,1,9,David the Deprived,Scale,Dagger,7,1,Raymond,Chainmail,Dagger,0,9,David the Deprived
+2026-04-22 18:17:26,f32dd1dd-2692-4533-8fd4-c517010830ae,2,9,David the Deprived,Scale,Dagger,8,1,Raymond,Chainmail,Dagger,8,9,David the Deprived
+2026-04-22 18:17:27,f32dd1dd-2692-4533-8fd4-c517010830ae,3,9,David the Deprived,Scale,Dagger,6,1,Raymond,Chainmail,Dagger,9,1,Raymond
+2026-04-22 18:17:27,f32dd1dd-2692-4533-8fd4-c517010830ae,4,9,David the Deprived,Scale,Dagger,0,1,Raymond,Chainmail,Dagger,9,1,Raymond
+2026-04-22 18:17:27,f32dd1dd-2692-4533-8fd4-c517010830ae,5,9,David the Deprived,Scale,Dagger,6,1,Raymond,Chainmail,Dagger,0,9,David the Deprived
+2026-04-22 18:17:27,f32dd1dd-2692-4533-8fd4-c517010830ae,6,9,David the Deprived,Scale,Dagger,3,1,Raymond,Chainmail,Dagger,1,9,David the Deprived
+2026-04-22 18:17:28,f32dd1dd-2692-4533-8fd4-c517010830ae,7,9,David the Deprived,Scale,Dagger,5,1,Raymond,Chainmail,Dagger,2,9,David the Deprived
+2026-04-22 18:17:28,f32dd1dd-2692-4533-8fd4-c517010830ae,8,9,David the Deprived,Scale,Dagger,0,1,Raymond,Chainmail,Dagger,1,1,Raymond
+2026-04-22 18:17:28,f32dd1dd-2692-4533-8fd4-c517010830ae,9,9,David the Deprived,Scale,Dagger,5,1,Raymond,Chainmail,Dagger,10,1,Raymond
+2026-04-22 18:17:28,f32dd1dd-2692-4533-8fd4-c517010830ae,10,9,David the Deprived,Scale,Dagger,9,1,Raymond,Chainmail,Dagger,1,9,David the Deprived
+2026-04-22 18:17:29,f32dd1dd-2692-4533-8fd4-c517010830ae,11,9,David the Deprived,Scale,Dagger,8,1,Raymond,Chainmail,Dagger,2,9,David the Deprived
+2026-04-22 18:17:29,f32dd1dd-2692-4533-8fd4-c517010830ae,12,9,David the Deprived,Scale,Dagger,0,1,Raymond,Chainmail,Dagger,0,9,David the Deprived
+2026-04-22 18:17:29,f32dd1dd-2692-4533-8fd4-c517010830ae,13,9,David the Deprived,Scale,Dagger,0,1,Raymond,Chainmail,Dagger,0,9,David the Deprived
+2026-04-22 18:17:29,f32dd1dd-2692-4533-8fd4-c517010830ae,14,9,David the Deprived,Scale,Dagger,0,1,Raymond,Chainmail,Dagger,0,9,David the Deprived
+2026-04-22 18:17:30,f32dd1dd-2692-4533-8fd4-c517010830ae,15,9,David the Deprived,Scale,Dagger,6,1,Raymond,Chainmail,Dagger,7,1,Raymond
+2026-04-22 18:17:30,f32dd1dd-2692-4533-8fd4-c517010830ae,16,9,David the Deprived,Scale,Dagger,0,1,Raymond,Chainmail,Dagger,14,1,Raymond
+2026-04-22 18:17:30,f32dd1dd-2692-4533-8fd4-c517010830ae,17,9,David the Deprived,Scale,Dagger,0,1,Raymond,Chainmail,Dagger,12,1,Raymond
+2026-04-22 18:17:30,f32dd1dd-2692-4533-8fd4-c517010830ae,18,9,David the Deprived,Scale,Dagger,6,1,Raymond,Chainmail,Dagger,10,1,Raymond
+2026-04-22 18:17:31,f32dd1dd-2692-4533-8fd4-c517010830ae,19,9,David the Deprived,Scale,Dagger,0,1,Raymond,Chainmail,Dagger,0,9,David the Deprived
+2026-04-22 18:17:31,f32dd1dd-2692-4533-8fd4-c517010830ae,20,9,David the Deprived,Scale,Dagger,0,1,Raymond,Chainmail,Dagger,18,1,Raymond
+2026-04-22 18:17:39,06b0c62d-8ddf-4966-93d6-16f9dab27e45,1,1,Raymond,Chainmail,Shortsword,3,4,Charlie,Wooden Shield,Greatsword,12,4,Charlie
+2026-04-22 18:17:39,06b0c62d-8ddf-4966-93d6-16f9dab27e45,2,1,Raymond,Chainmail,Shortsword,0,4,Charlie,Wooden Shield,Greatsword,0,1,Raymond
+2026-04-22 18:17:40,06b0c62d-8ddf-4966-93d6-16f9dab27e45,3,1,Raymond,Chainmail,Shortsword,13,4,Charlie,Wooden Shield,Greatsword,6,1,Raymond
+2026-04-22 18:17:40,06b0c62d-8ddf-4966-93d6-16f9dab27e45,4,1,Raymond,Chainmail,Shortsword,9,4,Charlie,Wooden Shield,Greatsword,0,1,Raymond
+2026-04-22 18:17:40,06b0c62d-8ddf-4966-93d6-16f9dab27e45,5,1,Raymond,Chainmail,Shortsword,12,4,Charlie,Wooden Shield,Greatsword,15,4,Charlie
+2026-04-22 18:17:40,06b0c62d-8ddf-4966-93d6-16f9dab27e45,6,1,Raymond,Chainmail,Shortsword,0,4,Charlie,Wooden Shield,Greatsword,15,4,Charlie
+2026-04-22 18:17:41,06b0c62d-8ddf-4966-93d6-16f9dab27e45,7,1,Raymond,Chainmail,Shortsword,0,4,Charlie,Wooden Shield,Greatsword,0,1,Raymond
+2026-04-22 18:17:41,06b0c62d-8ddf-4966-93d6-16f9dab27e45,8,1,Raymond,Chainmail,Shortsword,18,4,Charlie,Wooden Shield,Greatsword,0,1,Raymond
+2026-04-22 18:17:41,06b0c62d-8ddf-4966-93d6-16f9dab27e45,9,1,Raymond,Chainmail,Shortsword,8,4,Charlie,Wooden Shield,Greatsword,0,1,Raymond
+2026-04-22 18:17:41,06b0c62d-8ddf-4966-93d6-16f9dab27e45,10,1,Raymond,Chainmail,Shortsword,2,4,Charlie,Wooden Shield,Greatsword,0,1,Raymond
+2026-04-22 18:17:42,06b0c62d-8ddf-4966-93d6-16f9dab27e45,11,1,Raymond,Chainmail,Shortsword,0,4,Charlie,Wooden Shield,Greatsword,12,4,Charlie
+2026-04-22 18:17:42,06b0c62d-8ddf-4966-93d6-16f9dab27e45,12,1,Raymond,Chainmail,Shortsword,6,4,Charlie,Wooden Shield,Greatsword,0,1,Raymond
+2026-04-22 18:17:42,06b0c62d-8ddf-4966-93d6-16f9dab27e45,13,1,Raymond,Chainmail,Shortsword,3,4,Charlie,Wooden Shield,Greatsword,1,1,Raymond
+2026-04-22 18:17:42,06b0c62d-8ddf-4966-93d6-16f9dab27e45,14,1,Raymond,Chainmail,Shortsword,14,4,Charlie,Wooden Shield,Greatsword,12,1,Raymond
+2026-04-22 18:17:43,06b0c62d-8ddf-4966-93d6-16f9dab27e45,15,1,Raymond,Chainmail,Shortsword,10,4,Charlie,Wooden Shield,Greatsword,14,4,Charlie
+2026-04-22 18:17:43,06b0c62d-8ddf-4966-93d6-16f9dab27e45,16,1,Raymond,Chainmail,Shortsword,7,4,Charlie,Wooden Shield,Greatsword,15,4,Charlie
+2026-04-22 18:26:29,48406f98-ee58-441c-b166-45e542e7fdf4,1,2,Daylen,Steel Shield,Dagger,0,4,Charlie,Wooden Shield,Greatsword,19,4,Charlie
+2026-04-22 18:26:30,48406f98-ee58-441c-b166-45e542e7fdf4,2,2,Daylen,Steel Shield,Dagger,16,4,Charlie,Wooden Shield,Greatsword,2,2,Daylen
+2026-04-22 18:26:30,48406f98-ee58-441c-b166-45e542e7fdf4,3,2,Daylen,Steel Shield,Dagger,13,4,Charlie,Wooden Shield,Greatsword,0,2,Daylen
+2026-04-22 18:26:30,48406f98-ee58-441c-b166-45e542e7fdf4,4,2,Daylen,Steel Shield,Dagger,16,4,Charlie,Wooden Shield,Greatsword,0,2,Daylen
+2026-04-22 18:26:30,48406f98-ee58-441c-b166-45e542e7fdf4,5,2,Daylen,Steel Shield,Dagger,3,4,Charlie,Wooden Shield,Greatsword,0,2,Daylen
+2026-04-22 18:26:31,48406f98-ee58-441c-b166-45e542e7fdf4,6,2,Daylen,Steel Shield,Dagger,2,4,Charlie,Wooden Shield,Greatsword,9,4,Charlie
+2026-04-22 18:26:31,48406f98-ee58-441c-b166-45e542e7fdf4,7,2,Daylen,Steel Shield,Dagger,0,4,Charlie,Wooden Shield,Greatsword,15,4,Charlie
+2026-04-22 18:26:31,48406f98-ee58-441c-b166-45e542e7fdf4,8,2,Daylen,Steel Shield,Dagger,8,4,Charlie,Wooden Shield,Greatsword,13,4,Charlie
+2026-04-22 18:26:31,48406f98-ee58-441c-b166-45e542e7fdf4,9,2,Daylen,Steel Shield,Dagger,5,4,Charlie,Wooden Shield,Greatsword,9,4,Charlie
+2026-04-22 18:26:32,48406f98-ee58-441c-b166-45e542e7fdf4,10,2,Daylen,Steel Shield,Dagger,2,4,Charlie,Wooden Shield,Greatsword,0,2,Daylen
+2026-04-22 18:26:32,48406f98-ee58-441c-b166-45e542e7fdf4,11,2,Daylen,Steel Shield,Dagger,4,4,Charlie,Wooden Shield,Greatsword,3,2,Daylen
+2026-04-22 18:26:32,48406f98-ee58-441c-b166-45e542e7fdf4,12,2,Daylen,Steel Shield,Dagger,5,4,Charlie,Wooden Shield,Greatsword,2,2,Daylen
+2026-04-22 18:26:32,48406f98-ee58-441c-b166-45e542e7fdf4,13,2,Daylen,Steel Shield,Dagger,0,4,Charlie,Wooden Shield,Greatsword,0,2,Daylen
+2026-04-22 18:26:33,48406f98-ee58-441c-b166-45e542e7fdf4,14,2,Daylen,Steel Shield,Dagger,0,4,Charlie,Wooden Shield,Greatsword,10,4,Charlie
+2026-04-22 18:26:33,48406f98-ee58-441c-b166-45e542e7fdf4,15,2,Daylen,Steel Shield,Dagger,0,4,Charlie,Wooden Shield,Greatsword,6,4,Charlie
+2026-04-22 18:26:33,48406f98-ee58-441c-b166-45e542e7fdf4,16,2,Daylen,Steel Shield,Dagger,1,4,Charlie,Wooden Shield,Greatsword,8,4,Charlie
+2026-04-22 18:26:33,48406f98-ee58-441c-b166-45e542e7fdf4,17,2,Daylen,Steel Shield,Dagger,5,4,Charlie,Wooden Shield,Greatsword,11,4,Charlie
+2026-04-22 18:38:44,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,1,1,Raymond,Half Plate,Greatsword,13,3,Juan,Chainmail,Club,0,1,Raymond
+2026-04-22 18:38:45,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,2,1,Raymond,Half Plate,Greatsword,0,3,Juan,Chainmail,Club,4,3,Juan
+2026-04-22 18:38:45,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,3,1,Raymond,Half Plate,Greatsword,21,3,Juan,Chainmail,Club,0,1,Raymond
+2026-04-22 18:38:45,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,4,1,Raymond,Half Plate,Greatsword,0,3,Juan,Chainmail,Club,4,3,Juan
+2026-04-22 18:38:45,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,5,1,Raymond,Half Plate,Greatsword,6,3,Juan,Chainmail,Club,2,1,Raymond
+2026-04-22 18:38:46,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,6,1,Raymond,Half Plate,Greatsword,1,3,Juan,Chainmail,Club,0,1,Raymond
+2026-04-22 18:38:46,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,7,1,Raymond,Half Plate,Greatsword,13,3,Juan,Chainmail,Club,4,1,Raymond
+2026-04-22 18:38:46,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,8,1,Raymond,Half Plate,Greatsword,0,3,Juan,Chainmail,Club,2,3,Juan
+2026-04-22 18:38:46,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,9,1,Raymond,Half Plate,Greatsword,14,3,Juan,Chainmail,Club,2,1,Raymond
+2026-04-22 18:38:47,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,10,1,Raymond,Half Plate,Greatsword,9,3,Juan,Chainmail,Club,0,1,Raymond
+2026-04-22 18:38:47,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,11,1,Raymond,Half Plate,Greatsword,0,3,Juan,Chainmail,Club,1,3,Juan
+2026-04-22 18:38:47,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,12,1,Raymond,Half Plate,Greatsword,1,3,Juan,Chainmail,Club,7,3,Juan
+2026-04-22 18:38:47,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,13,1,Raymond,Half Plate,Greatsword,9,3,Juan,Chainmail,Club,1,1,Raymond
+2026-04-22 18:38:48,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,14,1,Raymond,Half Plate,Greatsword,0,3,Juan,Chainmail,Club,2,3,Juan
+2026-04-22 18:38:48,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,15,1,Raymond,Half Plate,Greatsword,0,3,Juan,Chainmail,Club,7,3,Juan
+2026-04-22 18:38:48,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,16,1,Raymond,Half Plate,Greatsword,7,3,Juan,Chainmail,Club,0,1,Raymond
+2026-04-22 18:38:48,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,17,1,Raymond,Half Plate,Greatsword,4,3,Juan,Chainmail,Club,8,3,Juan
+2026-04-22 18:38:49,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,18,1,Raymond,Half Plate,Greatsword,0,3,Juan,Chainmail,Club,8,3,Juan
+2026-04-22 18:38:49,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,19,1,Raymond,Half Plate,Greatsword,0,3,Juan,Chainmail,Club,4,3,Juan
+2026-04-22 18:38:49,7cf6bc9a-802d-4d8a-8732-b5a6157a7420,20,1,Raymond,Half Plate,Greatsword,9,3,Juan,Chainmail,Club,5,1,Raymond

@@ -185,10 +185,10 @@ def main():
     print("=" * 40)
     print("Leaderboard")
     print("=" * 40)
-    print(f"{'Rank':<5} {'Name':<18} {'Wins':<5}")
+    print(f"{'Rank':<5} {'Name':<25} {'Wins':<5}")
     print("-" * 40)
     for i,(key,value) in enumerate(leader_board, start=1):
-        print(f"{i:<5} {key:<18} {value:<5}")
+        print(f"{i:<5} {key:<25} {value:<5}")
     
     print("\n")
 
